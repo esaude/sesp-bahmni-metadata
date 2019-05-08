@@ -1,0 +1,4 @@
+Uuid,Void/Retire,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Data class,Data type,_order:1000
+f1975476-700f-11e9-a923-1681be663d3e,,,Mozambican,Moçambicano,Mozambican,Moçambicano,Misc,Text,
+f197575a-700f-11e9-a923-1681be663d3e,,,Foreigner,Estrangeiro,Foreigner,Estrangeiro,Misc,Text,
+f1975b92-700f-11e9-a923-1681be663d3e,,f1975476-700f-11e9-a923-1681be663d3e;f197575a-700f-11e9-a923-1681be663d3e,Nationality,Nacionalidade,Nationality,Nacionalidade,Misc,Coded,
