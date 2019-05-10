@@ -1,0 +1,4 @@
+Uuid,Void/Retire,Name,Description,Format,Foreign uuid,Searchable,_order:1000
+Abbf7cbe-7018-11e9-a923-1681be663d3e,,HEALTH_FACILITY_NAME,,java.lang.String,,,
+abbf7cbe-7019-11e9-a923-1681be663d3e,,HEALTH_FACILITY_DISTRICT,,java.lang.String,,,
+Abbf8cbe-7020-11e9-a923-1681be663d3e,,HEALTH_FACILITY_PROVINCE,,java.lang.String,,,
