@@ -1,0 +1,41 @@
+<config>
+  <globalProperties>
+    <globalProperty>
+      <property>emrapi.sqlSearch.activePatients</property>
+      <value>
+      	select distinct
+          pn.given_name as firstName,
+          pn.family_name as lastName,
+          p.date_created as registrationDate,
+          GROUP_CONCAT(DISTINCT (case when pat.name = 'NICK_NAME' then par.value else null end)) as "nickName",
+          GROUP_CONCAT(DISTINCT (case when pat.name = 'PRIMARY_CONTACT_NUMBER_1' then par.value else null end)) as "mainContact",
+          GROUP_CONCAT(DISTINCT (case when pat.name = 'PATIENT_STATUS' then cn.name else null end)) as "patientStatus",
+          p.gender as gender,
+          DATE_FORMAT(FROM_DAYS(DATEDIFF('2019-05-02',p.birthdate)), '%Y')+1 as age,
+          p.birthdate as birthDate,
+          pi.identifier as identifier,
+          concat("",p.uuid) as uuid,
+          concat("",v.uuid) as activeVisitUuid,
+          IF(va.value_reference = "Admitted", "true", "false") as hasBeenAdmitted  
+        from visit v
+        join person_name pn on v.patient_id = pn.person_id and pn.voided = 0
+        join patient_identifier pi on v.patient_id = pi.patient_id and pi.voided = 0
+        join patient_identifier_type pit on pi.identifier_type = pit.patient_identifier_type_id
+        and pit.name in('Patient Identifier')
+        join patient_identifier pi2 on v.patient_id = pi2.patient_id and pi2.voided = 0
+        join patient_identifier_type pit2 on pi2.identifier_type = pit2.patient_identifier_type_id
+        join person p on p.person_id = v.patient_id
+        left join person_attribute par on par.person_id=p.person_id and par.voided=0 
+        left join person_attribute_type pat on par.person_attribute_type_id=pat.person_attribute_type_id
+	    LEFT OUTER JOIN concept_name cn on cn.concept_id = par.value and cn.concept_name_type = 'FULLY_SPECIFIED' and pat.format = 'org.openmrs.Concept'
+        join location l on  v.location_id = l.location_id
+        left outer join visit_attribute va on va.visit_id = v.visit_id and va.attribute_type_id = (
+          select visit_attribute_type_id from visit_attribute_type where name="Admission Status"
+        ) and va.voided = 0
+        where v.date_stopped is null AND v.voided = 0
+        group by pi.patient_id
+        order by identifier;
+      </value>
+    </globalProperty>
+  </globalProperties>
+</config>
