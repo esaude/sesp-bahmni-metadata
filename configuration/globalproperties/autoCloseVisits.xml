@@ -1,0 +1,12 @@
+<config>
+  <globalProperties>
+    <globalProperty>
+      <property>emrapi.visitExpireHours</property>
+      <value>0</value>
+    </globalProperty>
+    <globalProperty>
+      <property>visits.autoCloseVisitType</property>
+      <value>FIRST_CLINICAL_CONSULTATION,FIRST_APSS_CONSULTATION,FOLLOWUP_APSS_CONSULTATION,FOLLOWUP_CLINICAL_CONSULTATION</value>
+    </globalProperty>
+  </globalProperties>
+</config>
