@@ -8,3 +8,4 @@ Uuid,Void/Retire,Name,Description,Format,Foreign uuid,Searchable,_order:1000
 99b8f75c-7012-11e9-a923-1681be663d3e,,Passaporte_Mocambicano,Passaporte Mocambicano,java.lang.String,,,
 99b8f89c-7012-11e9-a923-1681be663d3e,,Passaporte_Estrangeiro,Passaporte Estrangeiro,java.lang.String,,,
 abbf7cbe-7017-11e9-a923-1681be663d3e,,NATIONALITY,REGISTRATION_LABEL_NATIONALITY ,org.openmrs.Concept,f1975b92-700f-11e9-a923-1681be663d3e,,
+
