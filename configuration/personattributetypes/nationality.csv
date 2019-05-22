@@ -5,6 +5,6 @@ Uuid,Void/Retire,NAME,Description,Format,Foreign uuid,Searchable,_order:1000
 99b8f37e-7012-11e9-a923-1681be663d3e,,CEDULA_DE_NASCIMENTO,Cedula de Nascimento,java.lang.String,,,
 99b8f4e6-7012-11e9-a923-1681be663d3e,,CARTAO_DE_ELEITOR,Cartao de Eleitor,java.lang.String,,,
 99b8f626-7012-11e9-a923-1681be663d3e,,DIRE,DIRE,java.lang.String,,,
-99b8f75c-7012-11e9-a923-1681be663d3e,,PASSAPORTE_MOCAMBICANO,Passaporte Mocambicano,java.lang.String,,,
-99b8f89c-7012-11e9-a923-1681be663d3e,,PASSAPORTE_ESTRANGEIRO,Passaporte Estrangeiro,java.lang.String,,,
+99b8f75c-7012-11e9-a923-1681be663d3e,,PASSAPORTE_MOCAMBICANO,REGISTRATION_LABEL_PASSPORT_MOZ,java.lang.String,,,
+99b8f89c-7012-11e9-a923-1681be663d3e,,PASSAPORTE_ESTRANGEIRO,REGISTRATION_LABEL_PASSPORT_FOR,java.lang.String,,,
 abbf7cbe-7017-11e9-a923-1681be663d3e,,NATIONALITY,REGISTRATION_LABEL_NATIONALITY ,org.openmrs.Concept,f1975b92-700f-11e9-a923-1681be663d3e,,
