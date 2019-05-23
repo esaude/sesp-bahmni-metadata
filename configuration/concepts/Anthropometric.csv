@@ -4,9 +4,9 @@ uuid,Members,Answers,Fully specified name:en,Fully specified name:pt_BR,Short na
 5c7080b0-7c77-11e9-8f9e-2a86e4085a59,,,Brachial_perimeter_new,Per√≠metro_braquial,Brachial perimeter,Per√≠metro braquial,"The Brachial Perimeter (PB) variable is only applied to patients who are:
 Pregnant Women
 Women in the puerperium (up to 6 months postpartum)
-Children at the age between 6-59 months","PerÌmetro Braquial (PB) sÛ È aplicado aos seguintes tipos de pacientes:
-Mulheres gr·vidas
-Mulheres em perÌodo puerpÈrio (atÈ 6 meses apÛs parto)
-CrianÁas com idade de 6-59 meses",Misc,Numeric,cm,,,,
+Children at the age between 6-59 months","Per√≠metro Braquial (PB) s√≥ √© aplicado aos seguintes tipos de pacientes:
+Mulheres gr√°vidas
+Mulheres em per√≠odo puerp√©rio (at√© 6 meses ap√≥s parto)
+Crian√ßas com idade de 6-59 meses",Misc,Numeric,cm,,,,
 5c708376-7c77-11e9-8f9e-2a86e4085a59,,,Nutritional_States_new,Estado_Nutricional,Nutritional States,Estado Nutricional,,,Misc,Numeric,"IMC, P/E",,,,
 5c7084ca-7c77-11e9-8f9e-2a86e4085a59,WEIGHT;HEIGHT;Brachial_perimeter_new ;Nutritional_States_new,,Anthropometric,Anthropometric,Anthropometric,Anthropometric,,,Misc,N/A,,,,,
