@@ -1,6 +1,6 @@
-﻿uuid,Members,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Data class,Data type,Units,Normal high,Normal low,_version:1,_order:1002
+uuid,Members,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Data class,Data type,Units,Normal high,Normal low,_version:1,_order:1002
 5089AAAAAAAAAAAAAAAAAAAAAAAAAAAA,,,WEIGHT,Peso,Weight,Peso,Misc,Numeric,Kg,,,,
 5090AAAAAAAAAAAAAAAAAAAAAAAAAAAA,,,HEIGHT,Altura_Estatura,Height,Altura/Estatura,Misc,Numeric,cm,,,,
-4e79cab8-7301-11e9-a923-1681be663d3e,,,Brachial_perimeter,Perímetro_braquial,Brachial perimeter,Perímetro braquial,Misc,Numeric,cm,,,,
-4e79d0ee-7301-11e9-a923-1681be663d3e,,,Nutritional_States,Estado_Nutricional,Nutritional States,Estado Nutricional,Misc,Numeric,"IMC, P/E",,,,
-4e79d288-7301-11e9-a923-1681be663d3e,WEIGHT;HEIGHT;Brachial_perimeter;Nutritional_States,,Anthropometric,Anthropometric,Nutritional States,Anthropometric,Misc,N/A,,,,,
+5c7080b0-7c77-11e9-8f9e-2a86e4085a59,,,Brachial_perimeter_new,Per�metro_braquial,Brachial perimeter,Per�metro braquial,Misc,Numeric,cm,,,,
+5c708376-7c77-11e9-8f9e-2a86e4085a59,,,Nutritional_States_new,Estado_Nutricional,Nutritional States,Estado Nutricional,Misc,Numeric,"IMC, P/E",,,,
+5c7084ca-7c77-11e9-8f9e-2a86e4085a59,WEIGHT;HEIGHT;Brachial_perimeter_new ;Nutritional_States_new,,Anthropometric,Anthropometric,Nutritional States,Anthropometric,Misc,N/A,,,,,
