@@ -1,0 +1,6 @@
+uuid,Members,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Data class,Data type,Units,Normal high,Normal low,_version:1,_order:1002
+5089AAAAAAAAAAAAAAAAAAAAAAAAAAAA,,,WEIGHT,Peso,Weight,Peso,Misc,Numeric,Kg,,,,
+5090AAAAAAAAAAAAAAAAAAAAAAAAAAAA,,,HEIGHT,Altura_Estatura,Height,Altura/Estatura,Misc,Numeric,cm,,,,
+5c7080b0-7c77-11e9-8f9e-2a86e4085a59,,,Brachial_perimeter_new,Perímetro_braquial,Brachial perimeter,Perímetro braquial,Misc,Numeric,cm,,,,
+5c708376-7c77-11e9-8f9e-2a86e4085a59,,,Nutritional_States_new,Estado_Nutricional,Nutritional States,Estado Nutricional,Misc,Numeric,"IMC, P/E",,,,
+5c7084ca-7c77-11e9-8f9e-2a86e4085a59,WEIGHT;HEIGHT;Brachial_perimeter_new ;Nutritional_States_new,,Anthropometric,Anthropometric,Anthropometric,Anthropometric,Misc,N/A,,,,,
