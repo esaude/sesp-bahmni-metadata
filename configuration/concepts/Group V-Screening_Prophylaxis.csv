@@ -1,6 +1,5 @@
 Uuid,Answers,Members,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Data class,Data type,Absolute low,Critical low,Normal low,Normal high,Critical high,Absolute high,Units,Allow Decimal?,Display Precision,_version:1,_order:1000
 f23c15cc-7ac0-11e9-8f9e-2a86e4085a59,,,Has TB Symptoms,Tem Sintomas de TB,Has TB Symptoms,Tem Sintomas de TB,Misc,Boolean,,,,,,,,,,,
-,,,Fever,Febre,Fever,Febre,Misc,N/A,,,,,,,,,,,
 f23c1cde-7ac0-11e9-8f9e-2a86e4085a59,,,Recent weight loss,E- Emagreciemento Recente,Recent weight loss,E- Emagreciemento Recente,Misc,N/A,,,,,,,,,,,
 85cc12ee-7afb-11e9-8f9e-2a86e4085a59,,,Cough with blood_Prophylaxis,T-Tosse_Com_Profilaxia,Cough with / without blood ,T-Tosse com,Misc,N/A,,,,,,,,,,,
 f23c1f4a-7ac0-11e9-8f9e-2a86e4085a59,,,Asthenia,A-Astenia,Asthenia,A-Astenia,Misc,N/A,,,,,,,,,,,
@@ -15,7 +14,7 @@ f23c3124-7ac0-11e9-8f9e-2a86e4085a59,,,Abdominal,Abdominal,Abdominal,Abdominal,M
 f23c3264-7ac0-11e9-8f9e-2a86e4085a59,,,Meningeal_Prophylaxis,Meníngea_Profilaxia,Meningeal,Meníngea,Misc,N/A,,,,,,,,,,,
 f23c3390-7ac0-11e9-8f9e-2a86e4085a59,,,Bone,Óssea_Profilaxia,Bone,Óssea,Misc,N/A,,,,,,,,,,,
 f23c35e8-7ac0-11e9-8f9e-2a86e4085a59,,,Cutaneous_Prophylaxis,Cutânea_Profilaxia,Cutaneous,Cutânea,Misc,N/A,,,,,,,,,,,
-,,,Miliary_Prophylaxis,Miliar_Profilaxia,Miliary,Miliar,Misc,N/A,,,,,,,,,,,
+4f8fcdfc-7de8-11e9-8f9e-2a86e4085a59,,,Miliary_Prophylaxis,Miliar_Profilaxia,Miliary,Miliar,Misc,N/A,,,,,,,,,,,
 f23c489e-7ac0-11e9-8f9e-2a86e4085a59,,,Pericardial_Prophylaxis,Pericárdica_Profilaxia,Pericardial,Pericárdica,Misc,N/A,,,,,,,,,,,
 f23c3714-7ac0-11e9-8f9e-2a86e4085a59,Ganglionic;Abdominal;Meningeal_Prophylaxis;Bone;Cutaneous_Prophylaxis;Miliary_Prophylaxis;Pericardial_Prophylaxis ,,TB Type is Extrapulmonary,Se o Tipo de TB é Extra Pulmonar,Type of Extrapulmonary,Se o Tipo de TB é Extra Pulmonar,Misc,Coded,,,,,,,,,,,
 f23c3bb0-7ac0-11e9-8f9e-2a86e4085a59,,,TB Treatment,Tratamento de TB,TB Treatment,Tratamento de TB,Misc,Text,,,,,,,,,,,
