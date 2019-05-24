@@ -7,6 +7,7 @@
           pn.given_name as firstName,
           pn.family_name as lastName,
           p.date_created as registrationDate,
+          p.birthdate_estimated as birthdateEstimated,
           GROUP_CONCAT(DISTINCT (case when pat.name = 'NICK_NAME' then par.value else null end)) as "nickName",
           GROUP_CONCAT(DISTINCT (case when pat.name = 'PRIMARY_CONTACT_NUMBER_1' then par.value else null end)) as "mainContact",
           GROUP_CONCAT(DISTINCT (case when pat.name = 'PATIENT_STATUS' then cn.name else null end)) as "patientStatus",
