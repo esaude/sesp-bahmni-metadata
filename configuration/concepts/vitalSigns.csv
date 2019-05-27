@@ -1,18 +1,17 @@
 Uuid,Answers,Members,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Data class,Data type,Absolute low,Critical low,Normal low,Normal high,Critical high,Absolute high,Units,Allow Decimal?,Display Precision,_version:1,_order:1000
 276fb7b2-77b0-11e9-8f9e-2a86e4085a59,,,Blood Pressure_Diastolic_Vital,Tensão Arterial_Diastólica_Vital ,Blood Pressure – Diastolic,Tensão Arterial  – Diastólica,Misc,Numeric,,,,80,,,mm Hg,,,,
 f3181b2a-7701-11e9-8f9e-2a86e4085a59,,"Blood Pressure_Diastolic_Vital;Diastolic Abnormal
-",Blood Pressure – Diastolic (mmHg),Tensão Arterial – Diastólica,Blood Pressure - Diastolic,Tensão Arterial  – Diastólica,"Concept Details
+",Blood Pressure_Diastolic_VS,Tensão Arterial – Diastólica,Blood Pressure - Diastolic,Tensão Arterial  – Diastólica,"Concept Details
 ",N/A,,,,,,,,,,,
 3fac124a-77aa-11e9-8f9e-2a86e4085a59,,,Blood Pressure – Systolic_Vital,Tensão Arterial – Sistólica_Vital,Blood Pressure – Systolic ,Tensão Arterial – Sistólica,Misc,Numeric,,,,120,,,mm Hg,,,,
  f3181df0-7701-11e9-8f9e-2a86e4085a59,,"Blood Pressure – Systolic_Vital;Systolic Abnormal
-",Blood Pressure – Systolic (mmHg),Tensão Arterial – Sistólica(mmHg),Blood Pressure – Systolic ,Tensão Arterial – Sistólica,"Concept Details
+",Blood Pressure_Systolic_VS,Tensão Arterial – Sistólica(mmHg),Blood Pressure – Systolic ,Tensão Arterial – Sistólica,"Concept Details
 ",N/A,,,,,,,,,,,
-3e959692-77a5-11e9-8f9e-2a86e4085a59,,,Heart Rate Normal,Frequência Cardíaca_Vitals,Heart Rate Normal,Frequência Cardíaca ,Misc,Numeric,,,72,72,,,bpm,,,,
-c36bc411-3f10-11e4-adec-0800271c1b75,,Heart Rate Normal ;Heart Rate Abnormal,Heart Rate (bpm),Frequência Cardíaca(bpm),Heart Rate ,Frequência Cardíaca,Concept Details,N/A,,,,,,,,,,,
-f3eaf132-779f-11e9-8f9e-2a86e4085a59,,,Temperature Normal,Temperatura_Vitals,Temperature Normal,Temperatura,Misc,Numeric,,,37,37,,,ºC,,,,
-c37bd733-3f10-11e4-adec-0800271c1b75,,Temperature Normal ;Temperature Abnormal,Temperature (ºC),Temperatura  (ºC),Temperature ,Temperatura,Concept Details,N/A,,,,,,,,,,,
-934d4228-7798-11e9-8f9e-2a86e4085a59,,Heart Rate Normal ;Heart Rate Abnormal,Heart Rate(bpm),Frequência Cardíaca (bpm),Heart Rate ,Frequência Cardíaca,Concept Details,N/A,,,,,,,,,,,
+3e959692-77a5-11e9-8f9e-2a86e4085a59,,,Heart Rate_Vitals,Frequência Cardíaca_Vitals,Heart Rate,Frequência Cardíaca ,Misc,Numeric,,,72,72,,,bpm,,,,
+c36bc411-3f10-11e4-adec-0800271c1b75,,Heart Rate_Vitals;Heart Rate Abnormal,Heart Rate_VS,Frequência Cardíaca_VS,Heart Rate (bpm),Frequência Cardíaca,Concept Details,N/A,,,,,,,,,,,
+f3eaf132-779f-11e9-8f9e-2a86e4085a59,,,Temperature_VS_SUB,Temperatura_Vitals,Temperature Normal,Temperatura,Misc,Numeric,,,37,37,,,ºC,,,,
+c37bd733-3f10-11e4-adec-0800271c1b75,,Temperature_VS_SUB ;Temperature Abnormal,Temperature _VS,Temperatura_VS,Temperature (ºC),Temperatura,Concept Details,N/A,,,,,,,,,,,
 3e959e26-77a5-11e9-8f9e-2a86e4085a59,,,Respiratory frequency_Vitals,Frequência respiratória_Vitals,Respiratory frequency ,Frequência respiratória,Misc,Numeric,,,16,20,,,cycles/min,,,,
 1b856aae-77c0-11e9-8f9e-2a86e4085a59,,,Respiratory frequency Abnormal,Frequência respiratória anormal,Respiratory frequency Abnormal,Frequência respiratória anormal,Abnormal,Boolean,,,,,,,,,,,
-9a89727c-77a8-11e9-8f9e-2a86e4085a59,,Respiratory frequency_Vitals ;Respiratory frequency Abnormal ,Respiratory frequency_Vitals (cycles/min),Respiratory frequency_Vitals (cycles/min),Respiratory frequency ,Frequência respiratória,Concept Details,N/A,,,,,,,,,,,
-74590908-7c87-11e9-8f9e-2a86e4085a59,,Blood Pressure – Diastolic (mmHg);Blood Pressure – Systolic (mmHg);Heart Rate (bpm);Temperature (ºC);Respiratory frequency_Vitals (cycles/min) ,Vital Signs,Vital Signs,Vital Signs,Vital Signs,Misc,N/A,,,,,,,,,,,
+9a89727c-77a8-11e9-8f9e-2a86e4085a59,,Respiratory frequency_Vitals ;Respiratory frequency Abnormal ,Respiratory frequency_VS,Respiratory frequency_VS,Respiratory frequency (cycles/min),Frequência respiratória (ciclos/min),Concept Details,N/A,,,,,,,,,,,
+74590908-7c87-11e9-8f9e-2a86e4085a59,,Blood Pressure_Diastolic_VS;Blood Pressure_Systolic_VS;Heart Rate_VS;Temperature _VS;Respiratory frequency_VS,Vital Signs,Vital Signs,Vital Signs,Vital Signs,Misc,N/A,,,,,,,,,,,
