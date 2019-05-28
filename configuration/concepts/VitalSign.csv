@@ -1,7 +1,7 @@
 Uuid,Answers,Members,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Data class,Data type,Absolute low,Critical low,Normal low,Normal high,Critical high,Absolute high,Units,Allow Decimal?,Display Precision,_version:1,_order:1000
-c163c95c-80f8-11e9-bc42-526af7764f64,,,Blood Pressure_Diastolic_VSNormal,Tensão Arterial_Diastólica_VSNormal,Blood Pressure – Diastolic,Tensão Arterial  – Diastólica,Misc,Numeric,,,,80,,,mm Hg,,,,
+e3995466-810b-11e9-bc42-526af7764f64,,,BP_Diastolic_VSNormal,Tensão Arterial_Diastólica_VSNormal,Blood Pressure – Diastolic,Tensão Arterial  – Diastólica,Misc,Numeric,,,,80,,,mm Hg,,,,
 8c9b09f2-809d-11e9-bc42-526af7764f64,,,Blood Pressure – Diastolic_Abnormal,Tensão Arterial  – Diastólica_anormal_VS,Diastolic Abnormal,Diastólica anormal,Abnormal,Boolean,,,,,,,,,,,
-5a485afa-8088-11e9-bc42-526af7764f64,,"Blood Pressure_Diastolic_VSNormal;Blood Pressure – Diastolic_Abnormal 
+5a485afa-8088-11e9-bc42-526af7764f64,,"BP_Diastolic_VSNormal;Blood Pressure – Diastolic_Abnormal 
 ",Blood Pressure – Diastolic_VSNew,Tensão Arterial – Diastólica_VS,Blood Pressure - Diastolic,Tensão Arterial  – Diastólica,"Concept Details
 ",N/A,,,,,,,,,,,
 5a485e74-8088-11e9-bc42-526af7764f64,,,Blood Pressure – Systolic_VS1,Tensão Arterial – Sistólica_VS,Blood Pressure – Systolic ,Tensão Arterial – Sistólica,Misc,Numeric,,,,120,,,mm Hg,,,,
