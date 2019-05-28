@@ -1,6 +1,6 @@
 uuid,Members,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Data class,Data type,_version:1,_order:1000
 ba677306-7acc-11e9-8f9e-2a86e4085a59,,,Conduct_Family_planning_Yes,,Yes,Sim,Misc,N/A,,
-ba67757c-7acc-11e9-8f9e-2a86e4085a59,,,Conduct_Family_planning_No,,No,NÃ£o,Misc,N/A,,
+ba67757c-7acc-11e9-8f9e-2a86e4085a59,,,Conduct_Family_planning_No,,No,Não,Misc,N/A,,
 ba6776d0-7acc-11e9-8f9e-2a86e4085a59,,Conduct_Family_planning_Yes;Conduct_Family_planning_No,Conduct_Family_planning,,Family Planning,Métodos de Planeamento,Misc,Coded,,
 ba678b16-7acc-11e9-8f9e-2a86e4085a59,,,Conduct_Contraceptive_Methods_PRES_Condom_button_Start,,Start,Inicio,Misc,N/A,,
 ba678c4c-7acc-11e9-8f9e-2a86e4085a59,,,Conduct_Contraceptive_Methods_PRES_Condom_button_In_Progress,,In-Progress,Em Curso,Misc,N/A,,
