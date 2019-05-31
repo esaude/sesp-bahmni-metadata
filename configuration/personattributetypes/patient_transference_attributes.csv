@@ -1,0 +1,5 @@
+Uuid,Void/Retire,Name,Description,Format,Foreign uuid,Searchable,_order:1000
+f6308923-40a8-4e35-b5ff-60676668b9cd,,TRANSFERENCE_HF_NAME,,java.lang.String,,,
+21f40b4e-2e4f-4a5d-8a44-a37d738d9e64,,TRANSFERENCE_HF_DISTRICT,,java.lang.String,,,
+5b981b6f-8d67-4ce7-a7d2-00c85b2fcff2,,TRANSFERENCE_HF_PROVINCE,,java.lang.String,,,
+1ad725bc-f9a1-48e9-a509-30c4cae70f03,,Date_of_transference,Data Transferência,org.openmrs.util.AttributableDate,,,

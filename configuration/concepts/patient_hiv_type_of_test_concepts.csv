@@ -1,0 +1,5 @@
+Uuid,Void/Retire,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Data class,Data type,_order:1000
+df188150-8cba-4dc4-bc15-673ae78d5416,,,Rapid,Rápido,Rapid,Rápido,Misc,N/A,
+0f2418b3-ae56-4ccd-bba5-bee117c50df8,,,PCR,,PCR,,Misc,N/A,
+cb68f28f-dcec-4d75-b780-a50a9287b3b2,,,Diagnóstico Presuntivo,,Diagnóstico Presuntivo,,Misc,N/A,
+88438bbb-4e1b-4883-87c4-d027d6c1ebab,,df188150-8cba-4dc4-bc15-673ae78d5416;0f2418b3-ae56-4ccd-bba5-bee117c50df8;cb68f28f-dcec-4d75-b780-a50a9287b3b2,Type_of_test,,Type_of_test,,Misc,Coded,

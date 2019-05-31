@@ -1,6 +1,0 @@
-Uuid,Void/Retire,Name,Description,Format,Foreign uuid,Searchable,_order:1000
-b2aae0e0-2dbb-4ac7-97b1-b4080dc1c840,,TRANSFERENCE_HF_NAME,,java.lang.String,,,
-612c27e9-dc0d-417b-b637-ce8f3b0861bb,,TRANSFERENCE_HF_DISTRICT,,java.lang.String,,,
-266fab05-6cfe-4819-b7ce-b12a2d6e5bab,,TRANSFERENCE_HF_PROVINCE,,java.lang.String,,,
-e6858a8e-7036-4d57-a606-4c467df5f9ea,TRUE,Transferred out HF name,Unidade Sanitária,org.openmrs.Concept,480612d8-16e4-4925-ae9a-2ac023cbfed3,,
-e6858a8e-7036-4d57-a606-4c467df5f8eb,,TRANSFERED_OUT_HF_NAME,Unidade Sanitária,org.openmrs.Concept,480612d8-16e4-4925-ae9a-2ac023cbfed3,,

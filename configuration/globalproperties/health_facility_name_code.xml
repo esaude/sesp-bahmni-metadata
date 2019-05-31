@@ -1,0 +1,8 @@
+<config>
+    <globalProperties>
+        <globalProperty>
+            <property>healthFacility.info</property>
+            <value>{"code":"01234567", "name":"CS Por Definir"}</value>
+        </globalProperties>
+    </globalProperties>
+</config>

@@ -1,0 +1,6 @@
+Uuid,Void/Retire,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Data class,Data type,_order:1000
+,,,Unmarried,Unmarried,,Solteiro(a),Misc,N/A,
+,,,Married,Married,,Casado(a),Misc,N/A,
+,,,Divorced,Divorced,,Divorciado(a),Misc,N/A,
+,,,Widowed,Widowed,,Viúvo(a),Misc,N/A,
+3214b6c7-0d47-4386-9e31-84086dcc7f97,,Unmarried;Married;Divorced;Widowed,Civil_Status,,Civil Status,,Misc,Coded,
