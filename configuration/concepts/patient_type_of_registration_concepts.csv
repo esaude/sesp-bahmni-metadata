@@ -1,0 +1,4 @@
+Uuid,Void/Retire,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Data class,Data type,_order:1000
+f5eea13d-8e14-4dec-b573-fe9f545e5ba5,,,NEW_PATIENT,,,,Misc,N/A,
+d9768f96-2e19-43bd-830f-642a36c95188,,,TRANSFERRED_PATIENT,,,,Misc,N/A,
+c65963e8-f9ff-465a-b362-3007c8b5fb93,,f5eea13d-8e14-4dec-b573-fe9f545e5ba5;d9768f96-2e19-43bd-830f-642a36c95188,TYPE_OF_REGISTRATION,,,,Misc,Coded,

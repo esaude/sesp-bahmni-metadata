@@ -1,0 +1,4 @@
+Uuid,Void/Retire,NAME,Description,Format,Foreign uuid,Searchable,_order:1000
+5d157528-14ae-4e71-9d48-f4122c7b12f7,,PRIMARY_CONTACT_NUMBER_1,Contacto Principal,java.lang.String,,,
+b246d160-d588-42dc-b05f-246dad7df454,,ALTERNATIVE_CONTACT_NUMBER_1,Contactos Alternativos 1,java.lang.String,,,
+5a1023cc-6fd3-472c-a941-f21bb33adaa7,,ALTERNATIVE_CONTACT_NUMBER_2,Contactos Alternativos 2,java.lang.String,,,

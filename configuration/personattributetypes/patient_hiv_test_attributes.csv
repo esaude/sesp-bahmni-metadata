@@ -1,0 +1,8 @@
+Uuid,Void/Retire,Name,Description,Format,Foreign uuid,Searchable,_order:1000
+a467629f-8800-4535-a962-91ef7fddc047,,HEALTH_FACILITY_NAME,,java.lang.String,,,
+e11bf075-ed53-49d2-a80b-ae531cff6903,,HEALTH_FACILITY_DISTRICT,,java.lang.String,,,
+7858d007-97f1-4255-9d8f-e83e78de97ad,,HEALTH_FACILITY_PROVINCE,,java.lang.String,,,
+6720e0c4-66eb-4905-bf11-323cbf4fdd99,,DateofHIVDiagnosis,Data do Teste,org.openmrs.util.AttributableDate,,,
+1bd4f44c-4382-4555-8569-101e717ddf79,,Typeoftest,Tipo Teste,org.openmrs.Concept,88438bbb-4e1b-4883-87c4-d027d6c1ebab,,
+890e537e-573b-4458-8dc8-3411e6519036,,SECTOR_SELECT,,org.openmrs.Concept,19794192-ca04-4313-8265-89966e7c6685,,
+8644d5fa-87ce-4737-992f-dedaeb8641e8,,ATIP_SELECT,,org.openmrs.Concept,b39a355c-ec0e-4cf8-b1ac-2bf2687918d7,,
