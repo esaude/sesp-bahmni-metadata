@@ -3,6 +3,6 @@
         <globalProperty>
             <property>mrs.genders</property>
             <value>{"M":"Masculino", "F":"Feminino"}</value>
-        </globalProperties>
+        </globalProperty>
     </globalProperties>
 </config>

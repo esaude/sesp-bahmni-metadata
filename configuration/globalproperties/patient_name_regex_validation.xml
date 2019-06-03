@@ -3,6 +3,6 @@
         <globalProperty>
             <property>patient.nameValidationRegex</property>
             <value>^[a-záàãâéèêẽíìóòõôúùçA-ZÁÀÃÂÉÈÊẼÍÌÓÒÔÕÚÙÇ \-]+$</value>
-        </globalProperties>
+        </globalProperty>
     </globalProperties>
 </config>
