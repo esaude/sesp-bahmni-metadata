@@ -1,5 +1,5 @@
 Uuid,Answers,Members,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Data class,Data type,Absolute low,Critical low,Normal low,Normal high,Critical high,Absolute high,Units,Allow Decimal?,Display Precision,_version:1,_order:1000
-c27f45d8-77ce-11e9-8f9e-2a86e4085a59,,,Patient Main Complaints,Principais Reclamações do Paciente,Patient Main Complaints,Principais Reclamações do Paciente,Misc,Text,,,,,,,,,,,
+c27f45d8-77ce-11e9-8f9e-2a86e4085a59,,,Patient Main Complaints,Principais Reclamações do Paciente,Major Complaints,Queixas Principais,Misc,Text,,,,,,,,,,,
 c27f4722-77ce-11e9-8f9e-2a86e4085a59,,,History of Current Illness,História de Doença Actual,History of Current Illness,História de Doença Actual,Misc,Text,,,,,,,,,,,
 c27f486c-77ce-11e9-8f9e-2a86e4085a59,,Patient Main Complaints;History of Current Illness,Current Disease History,História da Doença Actual,Current Disease History,História da Doença Actual,Misc,N/A,,,,,,,,,,,
 c27f4b5a-77ce-11e9-8f9e-2a86e4085a59,,,Last Menstruation Date,Data da última menstruação,Last Menstruation Date,Data da última menstruação,Misc,Date,,,,,,,,,,,
