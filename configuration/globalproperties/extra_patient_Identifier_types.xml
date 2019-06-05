@@ -1,0 +1,8 @@
+<config>
+    <globalProperties>
+        <globalProperty>
+            <property>bahmni.extraPatientIdentifierTypes</property>
+            <value></value>
+        </globalProperty>
+    </globalProperties>
+</config>
