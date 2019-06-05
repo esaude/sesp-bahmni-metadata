@@ -1,5 +1,6 @@
 Uuid,Void/Retire,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Data class,Data type,_order:1000
-49d63d22-b442-4f48-8316-ea11f5c725e0,,,Education_Primary,Education_Primary,Primary,Primário,Misc,N/A,
+,,,None,Nenhum,,Nenhum,Misc,N/A,
+49d63d22-b442-4f48-8316-ea11f5c725e0,,,Education_Primary,EducationPrimary,Primary,Primário,Misc,N/A,
 9ca79147-e626-48e6-b3c3-7d44dbbbf674,,,Education_Secondary,Education_Secondary,Secondary,Secundário,Misc,N/A,
 65756394-b989-483e-8611-59b9ece2777f,,,University,University,University,Universitário,Misc,N/A,
 0dc2908e-65a0-466a-8f23-2cf17c76dc0e,,None;49d63d22-b442-4f48-8316-ea11f5c725e0;9ca79147-e626-48e6-b3c3-7d44dbbbf674;65756394-b989-483e-8611-59b9ece2777f,Patient_Education,Educação,patient_education,educação,Misc,Coded,
