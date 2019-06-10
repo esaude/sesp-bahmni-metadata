@@ -1,0 +1,6 @@
+Uuid,Void/Retire,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Data class,Data type,_order:1000
+21f5bb34-ada6-4fae-9825-90e68fdde386,,,TARV Templates,,TARV,,Misc,N/A,
+bc32a7ff-4b55-481e-905a-da89db3e0442,,7126c590-6621-43d7-9e7a-cdec1d7ad211;93c68b3b-d210-431d-9dbf-39c18dba5309;1a8ea20c-5302-426d-916f-381881b6a74a,TARV STATUS,,TARV STATUS,,Misc,Coded,
+7126c590-6621-43d7-9e7a-cdec1d7ad211,,,Início (Start),Início (Start),START_TARV,START_TARV,Misc,Text,
+93c68b3b-d210-431d-9dbf-39c18dba5309,,,Em Curso (In Progress),Em Curso (In Progress),ONGOING_TARV,ONGOING_TARV,Misc,Text,
+1a8ea20c-5302-426d-916f-381881b6a74a,,,Fim (End),Fim (End),END_TARV,END_TARV,Misc,Text,
