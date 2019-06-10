@@ -9,7 +9,7 @@
     <globalProperty>
       <property>emrapi.visitExpireHours</property>
       <value>
-	24
+	0
       </value>
     </globalProperty>
   </globalProperties>
