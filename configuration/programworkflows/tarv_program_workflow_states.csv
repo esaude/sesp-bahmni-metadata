@@ -1,4 +1,4 @@
 Uuid,Void/Retire,Workflow,State concept,Initial,Terminal,_order:1000
-7126c590-6621-43d7-9e7a-cdec1d7ad211,,TARV STATUS,Início (Start),,,
+7126c590-6621-43d7-9e7a-cdec1d7ad211,,TARV STATUS,Início (Start),true,,
 93c68b3b-d210-431d-9dbf-39c18dba5309,,TARV STATUS,Em Curso (In Progress),,,
-1a8ea20c-5302-426d-916f-381881b6a74a,,TARV STATUS,Fim (End),,,
+1a8ea20c-5302-426d-916f-381881b6a74a,,TARV STATUS,Fim (End),,true,
