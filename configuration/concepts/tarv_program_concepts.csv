@@ -3,3 +3,4 @@ Uuid,Void/Retire,Answers,Fully specified name:en,Fully specified name:pt_BR,Shor
 7126c590-6621-43d7-9e7a-cdec1d7ad211,,,In Progress,Em TARV,START_TARV,START_TARV,Misc,Text,
 1a8ea20c-5302-426d-916f-381881b6a74a,,,Suspended,Suspenso,END_TARV,END_TARV,Misc,Text,
 bc32a7ff-4b55-481e-905a-da89db3e0442,,7126c590-6621-43d7-9e7a-cdec1d7ad211;1a8ea20c-5302-426d-916f-381881b6a74a,TARV STATUS,,TARV_STATUS,TARV_STATUS,Misc,Coded,
+811bd3e7-b0ff-4769-8cdc-6c8391d4b15e,,,TARV STATUS WORKFLOW,,TARV_STATUS_WORKFLOW,TARV_STATUS_WORKFLOW,Misc,N/A,
