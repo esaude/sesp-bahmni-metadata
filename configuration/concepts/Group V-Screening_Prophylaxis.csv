@@ -32,7 +32,7 @@ f23c3714-7ac0-11e9-8f9e-2a86e4085a59,Ganglionic;Abdominal;Meningeal_Prophylaxis;
 f23c3bb0-7ac0-11e9-8f9e-2a86e4085a59,,,TB Treatment,Tratamento de TB,TB Treatment,Tratamento de TB,Misc,Text,,,,,,,,,,,
 f23c3d2c-7ac0-11e9-8f9e-2a86e4085a59,,,SP_Treatment Start Date,Data de Inicio de Tratamento,Treatment Start Date,Data de Início de Tratamento,Misc,Date,,,,,,,,,,,
 f23c3e58-7ac0-11e9-8f9e-2a86e4085a59,,,Start_SP,Inicio,Start,Início,Misc,N/A,,,,,,,,,,,
-f23c4772-7ac0-11e9-8f9e-2a86e4085a59,,,In Progress,Em Curso,In Progress,Em Curso,Misc,N/A,,,,,,,,,,,
+f23c4772-7ac0-11e9-8f9e-2a86e4085a59,,,Em Curso,Em Curso,In Progress,Em Curso,Misc,N/A,,,,,,,,,,,
 c95f4840-7c5f-11e9-8f9e-2a86e4085a59,,,End,Fim,End,Fim,Misc,N/A,,,,,,,,,,,
 de5ebfea-7df5-11e9-8f9e-2a86e4085a59,Start_SP;In Progress;End,,SP_Treatment State,Estado de Tratatmento,Treatment State,Estado de Tratamento,Misc,Coded,,,,,,,,,,,
 f23c3f84-7ac0-11e9-8f9e-2a86e4085a59,,,SP_Treatment End Date,Data de Fim de Tratamento,Treatment End Date,Data de Fim de Tratamento,Misc,Date,,,,,,,,,,,
