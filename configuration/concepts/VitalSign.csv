@@ -11,7 +11,7 @@ e3995466-810b-11e9-bc42-526af7764f64,,,BP_Diastolic_VSNormal,Tensão Arterial_Di
 5a486356-8088-11e9-bc42-526af7764f64,,,Temperature_VS_SUB1,Temperatura_Sub,Temperature Normal,Temperatura,Misc,Numeric,,,36.5,37.5,,,ºC,yes,1,,
 8c9b0fec-809d-11e9-bc42-526af7764f64,,,Temperature abnormal_VS,Temperatura anormal_VS1,Temperature abnormal,Temperatura anormal,Abnormal,Boolean,,,,,,,,,,,
 5a4864fa-8088-11e9-bc42-526af7764f64,,Temperature_VS_SUB1;Temperature abnormal_VS,Temperature VS1,Temperatura_VS1,Temperature,Temperatura,Concept Details,N/A,,,,,,,,,,,
-c163c95c-80f8-11e9-bc42-526af7764f64,,,Respiratory frequency_VSNormal,Frequência respiratória_VS,Respiratory frequency,Frequência respiratória,Misc,Numeric,,,16,20,,,ciclos/min,,,,
+c163c95c-80f8-11e9-bc42-526af7764f64,,,Respiratory frequency_VSNormal,Frequência respiratória_VS,Respiratory frequency,Frequência respiratória,Misc,Numeric,,,,,,,ciclos/min,,,,
 5a486b44-8088-11e9-bc42-526af7764f64,,,Respiratory frequency Abnormal_AS,Frequência respiratória anormal_AS,Respiratory frequency Abnormal,Frequência respiratória anormal,Abnormal,Boolean,,,,,,,,,,,
 5a486c66-8088-11e9-bc42-526af7764f64,,Respiratory frequency_VSNormal;Respiratory frequency Abnormal_AS,Respiratory frequency_VS1,Respiratory frequency_VS1,Respiratory frequency,Frequência respiratória,Concept Details,N/A,,,,,,,,,,,
 5a486d88-8088-11e9-bc42-526af7764f64,,Blood Pressure – Diastolic_VSNew;Blood Pressure – Systolic_VitalS;Heart Rate_VS_VitalsNew;Temperature VS1;Respiratory frequency_VS1,Vital Signs_VS,Sinais Vitais_VS,Vital Signs,Sinais Vitais,Misc,N/A,,,,,,,,,,,
