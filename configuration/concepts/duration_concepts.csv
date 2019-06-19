@@ -1,0 +1,6 @@
+Uuid,Fully specified name:en,Fully specified name:pt_BR,Description,Data class,Data type,Short name:en,Short name:pt_BR,Same as mappings,_version:1,_order:1000
+9d7437a9-3f10-11e4-adec-0800271c1b75,Day(s),Dia (s),,Misc,N/A,day(s),dia (s),SNOMED:258703001,,
+bb62c684-3f10-11e4-adec-0800271c1b75,Hour(s),Hora (s),,Misc,N/A,hour(s),hora (s),SNOMED:258702006,,
+bb6436e3-3f10-11e4-adec-0800271c1b75,Week(s),Semana (s),,Misc,N/A,week(s),semana (s),SNOMED:258705008	,,
+bb655344-3f10-11e4-adec-0800271c1b75,Month(s),Mês (es),,Misc,N/A,month(s),mês (es),SNOMED:258706009,,
+33bc78b1-8a92-11e4-977f-0800271c1b75,Minute(s),Minuto (s),,Misc,N/A,minute(s),minuto (s),SNOMED:258701004	,,

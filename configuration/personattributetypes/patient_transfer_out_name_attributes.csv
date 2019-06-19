@@ -1,0 +1,4 @@
+Uuid,Void/Retire,NAME,Description,Format,Foreign uuid,Searchable,_order:1000
+20c68872-8d14-11e9-bc42-526af7764f64,,Is_Transferred_Out,,java.lang.Boolean,,,
+20c68cfa-8d14-11e9-bc42-526af7764f64,,Transfer_Date,,org.openmrs.util.AttributableDate,,,
+20c68e62-8d14-11e9-bc42-526af7764f64,,Observations,,java.lang.String,,,
