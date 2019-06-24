@@ -1,0 +1,6 @@
+Uuid,Role name,Description,Inherited roles,Privileges
+13c0777e-5565-4774-a50b-76114f41aa66,Clinico,Clinical Module:both read and write,Clinical-App-Save;Clinical-App-Observations,
+94fdeb5e-2476-4503-b942-70ddfe7bef70,Clinician,Clinical Module:Role for clinicians,Clinico,
+12d1b229-1ba5-4537-ac1b-11b6c33adf26,Lay_Advisor,Clinical Module:Role for Lay Advisors,Clinico,
+ebf90d1f-ae6c-49e0-9f35-175924c5802f,Psychiatric_Nurse,Clinical Module:Role for Psychiatric Nurses,Clinico,
+3d371511-2c2d-4d5f-a0d4-fa61577f89be,SESP_Manager,Clinical Module:Role for SESP Managers,Clinico,
