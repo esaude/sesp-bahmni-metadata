@@ -1,0 +1,22 @@
+<config>
+  <globalProperties>
+    <globalProperty>
+      <property>emr.concept.allergySetOfSets</property>
+      <value>
+	7c5de9c8-9255-11e9-bc42-526af7764f64
+      </value>
+    </globalProperty>
+    <globalProperty>
+      <property>alergyList.nonCodedUuid</property>
+      <value>
+	a3a4b2cc-c70d-11e7-aa2b-8e7070d6a3d1
+      </value>
+    </globalProperty>
+    <globalProperty>
+      <property>alergyList.endReasonConceptSetUuid</property>
+      <value>
+  
+      </value>
+    </globalProperty>
+  </globalProperties>
+</config>
