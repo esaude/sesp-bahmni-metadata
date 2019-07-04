@@ -1,7 +1,7 @@
 uuid,Members,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Description:en,Description:pt_BR,Data class,Data type,Units,Normal high,Normal low,_version:1,_order:1002
 5089AAAAAAAAAAAAAAAAAAAAAAAAAAAA,,,WEIGHT,Peso,Weight,Peso,,,Misc,Numeric,Kg,,,,
 5090AAAAAAAAAAAAAAAAAAAAAAAAAAAA,,,HEIGHT,Altura_Estatura,Height,Altura/Estatura,,,Misc,Numeric,cm,,,,
-5091AAAAAAAAAAAAAAAAAAAAAAAAAAAA,,,BMI,IMC,BMI,IMC,,,Misc,Numeric,,,,,
+5091AAAAAAAAAAAAAAAAAAAAAAAAAAAA,,,BMI,IMC,BMI,IMC,,,Misc,Numeric,,,,
 5c7080b0-7c77-11e9-8f9e-2a86e4085a59,,,Brachial_perimeter_new,Perímetro_braquial,Brachial perimeter,Perímetro braquial,"Brachial Perimeter is only applicable to Pregnant Women, Women in the puerperal period or Children aged between 0-60 months","Perimetro Braquial só é aplicavel a Mulheres Grávida, Mulheres em período puerpério ou Crianças com idade entre 0-60 meses",Misc,Numeric,cm,,,,
 cea502b6-d510-40d8-9a62-d2e2e99a17c2,,,CO_Normal,CO_Normal,Normal,Normal,,,Misc,N/A,,,,,
 cfdcf501-876f-443a-86fb-3a9b868d1edd,,,CO_SAM,CO_SAM,Severe acute malnutrition,Desnutrição aguda grave,,,Misc,N/A,,,,,
