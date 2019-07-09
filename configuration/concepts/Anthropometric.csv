@@ -12,4 +12,4 @@ cfdcf501-876f-443a-86fb-3a9b868d1edd,,,CO_SAM,CO_SAM,Severe acute malnutrition,D
 0c610d59-ea79-4c17-b9a9-4b9bf873023f,,,CO_ThreeDO,CO_ThreeDO,3ª Degree obesity,Obesidade grau 3,,,Misc,N/A,,,,,
 c6b0c0e0-5954-48e6-9f8e-82742c197eba,,,CO_Obese,CO_Obese,Obesity,Obsidade,,,Misc,N/A,,,,,
 5c708376-7c77-11e9-8f9e-2a86e4085a59,,CO_Normal ;CO_SAM ;CO_MAM ;CO_LAM ;CO_Overweight ;CO_OneDO ;CO_TwoDO ;CO_ThreeDO ;CO_Obese,Nutritional_States_new,Estado_Nutricional,Nutritional States,Estado Nutricional,,,Misc,Coded,,,,,
-5c7084ca-7c77-11e9-8f9e-2a86e4085a59,HEIGHT;WEIGHT;Brachial_perimeter_new ;Nutritional_States_new,,Anthropometric,Anthropometric,Anthropometric,Dados Antropométricos,,,Misc,N/A,,,,,
+5c7084ca-7c77-11e9-8f9e-2a86e4085a59,HEIGHT;WEIGHT;Brachial_perimeter_new;BMI;Nutritional_States_new,,Anthropometric,Anthropometric,Anthropometric,Dados Antropométricos,,,Misc,N/A,,,,,
