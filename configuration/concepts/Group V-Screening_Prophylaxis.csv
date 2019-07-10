@@ -65,7 +65,7 @@ a3c0888a-7b95-11e9-8f9e-2a86e4085a59,,,End Date,Data de Fim,End Date,Data de Fim
 523f34be-7b9c-11e9-8f9e-2a86e4085a59,,Start Date_Prophylaxis;State_Prophylaxis;End Date;Secondary effects,CTZ_Details,CTZ_Details,CTZ,CTZ,Misc,N/A,,,,,,,,,,,
 231f6a70-7bb3-11e9-8f9e-2a86e4085a59,,Start Date_Prophylaxis;State_Prophylaxis;End Date;Secondary effects,Fluconazol_Details,Fluconazol_Details,Fluconazol,Fluconazol,Misc,N/A,,,,,,,,,,,
 231f6a70-7bb3-11e9-8f9e-2a86e4085mn6,,,SP_Side_Effects,SP_Side_Effects,Had Side Effects,Teve efeitos secundários,Misc,Boolean,,,,,,,,,,,
-231f6a70-7bb3-11e9-8f9e-2a86e40851x7,,,SP_Side_Effects_Text,SP_Side_Effects_Text,Side Effects,Side Effects,Misc,Text,,,,,,,,,,,
+231f6a70-7bb3-11e9-8f9e-2a86e40851x7,,,SP_Side_Effects_Text,SP_Side_Effects_Text,Side Effects,Efeitos colaterais,Misc,Text,,,,,,,,,,,
 a3c089c0-7b95-11e9-8f9e-2a86e4085a59,,Type_Prophylaxis;INH_Details;CTZ_Details;Fluconazol_Details;SP_Side_Effects;SP_Side_Effects_Text,Prophilaxis_Group_V,Prophilaxis_Group_V,Prophilaxis,Profilaxia,Misc,N/A,,,,,,,,,,,
 c992ec66-7bbc-11e9-8f9e-2a86e4085a59,,,Infants Odema_O,Infants Odema_O,O,O,Misc,N/A,,,,,,,,,,,
 c992edc4-7bbc-11e9-8f9e-2a86e4085a59,,,Infants Odema_+,Infants Odema_+,+,+,Misc,N/A,,,,,,,,,,,
