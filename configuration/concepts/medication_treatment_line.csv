@@ -1,0 +1,8 @@
+Uuid,Members,Fully specified name:en,Fully specified name:pt_BR,Description,Data class,Data type,Short name:en,Short name:pt_BR,_version:1,_order:1000,
+ccdcacaa-a703-11e9-a2a3-2a2ae2dbcce4,,treatment_line_arv1,treatment_line_arv1,,Misc,N/A,1st Line,,,,
+ccdcaef8-a703-11e9-a2a3-2a2ae2dbcce4,,treatment_line_arv2,treatment_line_arv2,,Misc,N/A,2nd Line,,,,
+ccdcb04c-a703-11e9-a2a3-2a2ae2dbcce4,,treatment_line_arv3,treatment_line_arv3,,Misc,N/A,3rd Line,,,,
+ccdcb182-a703-11e9-a2a3-2a2ae2dbcce4,,treatment_line_tb1,treatment_line_tb1,,Misc,N/A,Resistant,,,,
+ccdcb466-a703-11e9-a2a3-2a2ae2dbcce4,,treatment_line_tb2,treatment_line_tb2,,Misc,N/A,Sensitive,,,,
+ccdcb5a6-a703-11e9-a2a3-2a2ae2dbcce4,treatment_line_arv1;treatment_line_arv2;treatment_line_arv3,treatment_line_arv,treatment_line_arv,,Misc,Coded,Treatment Line,,,,
+ccdcb6dc-a703-11e9-a2a3-2a2ae2dbcce4,treatment_line_tb1;treatment_line_tb2,treatment_line_tb,treatment_line_tb,,Misc,Coded,Treatment Line,,,,

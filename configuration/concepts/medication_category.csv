@@ -1,0 +1,7 @@
+Uuid,Members,Fully specified name:en,Fully specified name:pt_BR,Description,Data class,Data type,Short name:en,Short name:pt_BR,_version:1,_order:1000
+a738c87d-3f38-4113-8819-faf92f10a69d,,medication_cat_arv,medication_cat_arv,,Misc,N/A,ARV,ARV,,
+075647a7-878a-43f0-9b9a-e6da858b214c,,medication_cat_pro,medication_cat_pro,,Misc,N/A,Prohylaxis,Profilaxia,,
+"8b6bff84-8415-41ba-8199-6ff5e73b92ac ",,medication_cat_its,medication_cat_its,,Misc,N/A,Treatment of ITS,Tratamento de ITS,,
+82a72e9f-8a3f-4738-b854-bd94d8da8fd0,,medication_cat_tb,medication_cat_tb,,Misc,N/A,Anti-Tuberculosis drugs,Drogas Anti-TB,,
+2c7f29f9-fab3-4f72-9681-61cbda3131d4,,medication_cat_other,medication_cat_other,,Misc,N/A,Other,Outras,,
+327f1e39-c787-4926-849d-fa27b5f905a5,medication_cat_arv;medication_cat_pro;medication_cat_its;medication_cat_tb;medication_cat_other,medication_category,medication_category,,Misc,Coded,Category,Categoria,,
