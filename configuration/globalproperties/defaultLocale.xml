@@ -1,0 +1,8 @@
+<config>
+    <globalProperties>
+        <globalProperty>
+            <property>default_locale</property>
+            <value>pt_BR</value>
+        </globalProperty>
+    </globalProperties>
+</config>
