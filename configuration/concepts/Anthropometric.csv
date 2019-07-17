@@ -1,4 +1,4 @@
-uuid,Members,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Description:en,Description:pt_BR,Data class,Data type,Allow decimals,Units,Normal high,Normal low,_version:1,_order:1002
+uuid,Members,Answers,Fully specified name:en,Fully specified name:pt,Short name:en,Short name:pt,Description:en,Description:pt,Data class,Data type,Allow decimals,Units,Normal high,Normal low,_version:1,_order:1002
 5089AAAAAAAAAAAAAAAAAAAAAAAAAAAA,,,WEIGHT,Peso,Weight,Peso,,,Misc,Numeric,,Kg,,,,
 5090AAAAAAAAAAAAAAAAAAAAAAAAAAAA,,,HEIGHT,Altura_Estatura,Height,Altura/Estatura,,,Misc,Numeric,,cm,,,,
 c367d9ee-3f10-11e4-adec-0800271c1b75,,,BMI,IMC,BMI,IMC,,,Misc,Numeric,yes,,,,
