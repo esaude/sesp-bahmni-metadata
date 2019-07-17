@@ -6,7 +6,7 @@ uuid,Members,Answers,Fully specified name:pt_BR,Fully specified name:en,Short na
 7e94ab24-7ac1-11e9-8f9e-2a86e4085a59,,,Reference_Diagnostic Disclosure,Reference_Diagnostic Disclosure,Revelação Diagnóstica,Diagnostic Disclosure,Misc,N/A,,
 7e94acdc-7ac1-11e9-8f9e-2a86e4085a59,,,Reference_In patient,Reference_In patient,Internamento,In patient,Misc,N/A,,
 7e94ae62-7ac1-11e9-8f9e-2a86e4085a59,,,Reference_Other,Reference_Other,Outro,Other,Misc,N/A,,
-c237f380-9ab0-4bd8-8bf8-f64dd50c0d99,,,Reference_Other_Text,Reference_Other_Text,Especificar servi�o,Specify Service,Misc,Text,,
+c237f380-9ab0-4bd8-8bf8-f64dd50c0d99,,,Reference_Other_Text,Reference_Other_Text,Especifique o Serviço,Specify Service,Misc,Text,,
 f8ea6333-6730-44ea-9b36-a5efa23b1f12,,Reference_TB; Reference_PTV; Reference_PF; Reference_APSS&PP; Reference_Diagnostic Disclosure; Reference_In patient; Reference_Other,Reference_Other_Services,Reference_Other_Services,Outros serviços,Other Services,Misc,Coded,,
 507cec95-d667-4d0c-a044-a1f677a9f44b,Reference_Other_Services;Reference_Other_Text,,Reference_Refer_To_Section,Reference_Refer_To_Section,Serviços,Refer To,ConvSet,N/A,,
 5366e620-7ac5-11e9-9fe7-2a86e4085a59,,,Reference_Start,Reference_Start,Início,Start,Misc,N/A,,
@@ -17,7 +17,7 @@ b4a2d08e-7ac5-11e9-8f9e-2a86e4085a59,,Reference_Start ;Reference_In_Progress ;Re
 b4a2d44e-7ac5-11e9-8f9e-2a86e4085a59,,Reference_Start ;Reference_In_Progress ;Reference_End,Reference_AR,Reference_AR,AR-Adolescentes reveladas/os,Disclosed for Youths,Misc,Coded,,
 b4a2d5ac-7ac5-11e9-8f9e-2a86e4085a59,,Reference_Start ;Reference_In_Progress ;Reference_End,Reference_MPS,Reference_MPS,MPM-Mãe para mãe,Mother to Mother,Misc,Coded,,
 b4a2d6ec-7ac5-11e9-8f9e-2a86e4085a59,,Reference_Start ;Reference_In_Progress ;Reference_End,Reference_Other_Specify_Group,Reference_Other_Specify_Group,Outro,Other,Misc,Coded,,
-fa647f8e-a84f-11e9-a2a3-2a2ae2dbcce4,,,Reference_Other_Specify_Group_Other,Reference_Other_Specify_Group_Other,Especificar grupo,Specify Group,Misc,Text,,
+fa647f8e-a84f-11e9-a2a3-2a2ae2dbcce4,,,Reference_Other_Specify_Group_Other,Reference_Other_Specify_Group_Other,Especifique o Grupo,Specify Group,Misc,Text,,
 890bed95-27a8-47a5-b3a3-83199f35a561,Reference_CR ;Reference_PC ;Reference_AR ;Reference_MPS ;Reference_Other_Specify_Group;Reference_Other_Specify_Group_Other,,Reference_Section_Support_Group,Reference_Section_Support_Group,Grupo de Apoio,Support Group,ConvSet,N/A,,
 50727468-7ad2-11e9-8f9e-2a86e4085a59,,,Reference_Eligible,Reference_Eligible,Elegível,Eligible,Misc,Boolean,,
 50727738-7ad2-11e9-8f9e-2a86e4085a59,,Reference_Start ;Reference_In_Progress ;Reference_End,Reference_GA,Reference_GA,GA-GAAC,GAAC,Misc,Coded,,
@@ -31,3 +31,4 @@ fa647f8e-a84f-11e9-a2a3-2a2ae2dbcce4,,,Reference_Other_Specify_Group_Other,Refer
 fa6481f0-a84f-11e9-a2a3-2a2ae2dbcce4,,,Reference_MDC_Other_comments,Reference_MDC_Other_comments,Especificar modelo de cuidados,Specify Care Model,Misc,Text,,
 1cb55e07-f392-44df-8dd5-ab781cd27db5,Reference_Eligible ;Reference_GA ;Reference_AF ;Reference_CA ;Reference_PU ;Reference_FR ;Reference_DT ;Reference_DC ;Reference_MDC_Other;Reference_MDC_Other_comments,,Reference_MDC_Section,Reference_MDC_Section,Modelos Diferenciados de Cuidados,Differentiated Care Model,ConvSet,N/A,,
 05035a4f-95d7-4a6a-8572-0610bf3f9453,Reference_Refer_To_Section;Reference_Section_Support_Group;Reference_MDC_Section,,Reference_Form,Reference_Form,Referência,Reference,Misc,N/A,,
+	
