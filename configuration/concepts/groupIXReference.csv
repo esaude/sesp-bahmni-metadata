@@ -28,6 +28,6 @@ fa647f8e-a84f-11e9-a2a3-2a2ae2dbcce4,,,Reference_Other_Specify_Group_Other,Refer
 507280d4-7ad2-11e9-8f9e-2a86e4085a59,,Reference_Start ;Reference_In_Progress ;Reference_End,Reference_DT,Reference_DT,DT-Dispensa Trimestral,Quarterly dispensary,Misc,Coded,,
 50728200-7ad2-11e9-8f9e-2a86e4085a59,,Reference_Start ;Reference_In_Progress ;Reference_End,Reference_DC,Reference_DC,DC-Dispensa Comunitária,Community Dispensary,Misc,Coded,,
 5072832c-7ad2-11e9-8f9e-2a86e4085a59,,Reference_Start ;Reference_In_Progress ;Reference_End,Reference_MDC_Other,Reference_MDC_Other,Outros,Other,Misc,Coded,,
-fa6481f0-a84f-11e9-a2a3-2a2ae2dbcce4,,,Reference_MDC_Other_comments,Reference_MDC_Other_comments,Especificar modelo de cuidados,Specify Care Model,Misc,Text,,
+fa6481f0-a84f-11e9-a2a3-2a2ae2dbcce4,,,Reference_MDC_Other_comments,Reference_MDC_Other_comments,Especifique o modelo de cuidado,Specify Care Model,Misc,Text,,
 1cb55e07-f392-44df-8dd5-ab781cd27db5,Reference_Eligible ;Reference_GA ;Reference_AF ;Reference_CA ;Reference_PU ;Reference_FR ;Reference_DT ;Reference_DC ;Reference_MDC_Other;Reference_MDC_Other_comments,,Reference_MDC_Section,Reference_MDC_Section,Modelos Diferenciados de Cuidados,Differentiated Care Model,ConvSet,N/A,,
 05035a4f-95d7-4a6a-8572-0610bf3f9453,Reference_Refer_To_Section;Reference_Section_Support_Group;Reference_MDC_Section,,Reference_Form,Reference_Form,Referência,Reference,Misc,N/A,,
