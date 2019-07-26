@@ -1,4 +1,4 @@
-Uuid,Answers,Members,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Data class,Data type,Absolute low,Critical low,Normal low,Normal high,Critical high,Absolute high,Units,Allow decimals,Display Precision,_version:1,_order:1000
+Uuid,Answers,Members,Fully specified name:en,Fully specified name:pt,Short name:en,Short name:pt,Data class,Data type,Absolute low,Critical low,Normal low,Normal high,Critical high,Absolute high,Units,Allow decimals,Display Precision,_version:1,_order:1000
 e3995466-810b-11e9-bc42-526af7764f64,,,BP_Diastolic_VSNormal,BP_Diastolic_VSNormal,Blood Pressure – Diastolic,Tensão Arterial  – Diastólica,Misc,Numeric,,,,80,,,mm Hg,,,,
 8c9b09f2-809d-11e9-bc42-526af7764f64,,,Blood_Pressure_–_Diastolic_Abnormal,Blood_Pressure_–_Diastolic_Abnormal,Diastolic Abnormal,Diastólica anormal,Abnormal,Boolean,,,,,,,,,,,
 5a485afa-8088-11e9-bc42-526af7764f64,,BP_Diastolic_VSNormal;Blood_Pressure_–_Diastolic_Abnormal,Blood_Pressure_–_Diastolic_VSNew,Blood_Pressure_–_Diastolic_VSNew,Blood Pressure - Diastolic,Tensão Arterial  – Diastólica,Concept Details,N/A,,,,,,,,,,,

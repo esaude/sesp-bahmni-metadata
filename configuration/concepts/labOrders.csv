@@ -1,4 +1,4 @@
-uuid,Members,Answers,Fully specified name:pt_BR,Fully specified name:en,Short name:pt_BR,Short name:en,Data class,Data type,_version:1,_order:1002
+uuid,Members,Answers,Fully specified name:pt,Fully specified name:en,Short name:pt,Short name:en,Data class,Data type,_version:1,_order:1002
 5a7222fa-2d30-4806-86a1-12b4c9d9eb26,,,ÁCIDO ÚRICO,LO_URICACID(172-400mol/L),ÁCIDO ÚRICO,URICACID(172-400mol/L),LabTest,Numeric,,
 f6e05a7b-b9bd-457d-98f2-77ec95930cff,,,ALBUMINA,LO_ALBUMIN(35-50g/L),ALBUMINA (35-50 g/L),ALBUMIN(35-50g/L),LabTest,Numeric,,
 04e0b154-14ab-4572-a5f5-240f7e8e5fa6,,,ALT,LO_ALT,ALT,ALT,LabTest,Numeric,,

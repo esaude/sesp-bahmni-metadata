@@ -1,4 +1,4 @@
-uuid,Members,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Description:en,Description:pt_BR,Data class,Data type,Units,Normal high,Normal low,_version:1,_order:1008
+uuid,Members,Answers,Fully specified name:en,Fully specified name:pt,Short name:en,Short name:pt,Description:en,Description:pt,Data class,Data type,Units,Normal high,Normal low,_version:1,_order:1008
 5b8ed3a9-27c4-4bce-bcbe-574809e1ba80,,,CONFIDENT_HIV_POSITIVE,CONFIDENT_HIV_POSITIVE,Positive,Positivo,,,Misc,N/A,,,,,
 833fcc7c-2140-4994-afb7-9ba4bb2119e7,,,CONFIDENT_HIV_NEGATIVE,CONFIDENT_HIV_NEGATIVE,Negative,Negativo,,,Misc,N/A,,,,,
 3d8daff1-5210-4d0e-8ff3-b56c02c0dc05,,,CONFIDENT_UNKNOWN,CONFIDENT_UNKNOWN,Unknown,Desconhecido,,,Misc,N/A,,,,,

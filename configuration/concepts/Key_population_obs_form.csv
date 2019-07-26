@@ -1,4 +1,4 @@
-uuid,Members,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Data class,Data type,_version:1,_order:1000
+uuid,Members,Answers,Fully specified name:en,Fully specified name:pt,Short name:en,Short name:pt,Data class,Data type,_version:1,_order:1000
 5f695c4c-7632-11e9-8f9e-2a86e4085a59,,,PP_Key_population_Yes,,Yes,Sim,Misc,N/A,,
 5f695fbc-7632-11e9-8f9e-2a86e4085a59,,,PP_Key_population_No,,No,Não,Misc,N/A,,
 5f696138-7632-11e9-8f9e-2a86e4085a59,,5f695c4c-7632-11e9-8f9e-2a86e4085a59;5f695fbc-7632-11e9-8f9e-2a86e4085a59,PP_Key_population,,Key Population,População Chave,Misc,Coded,,

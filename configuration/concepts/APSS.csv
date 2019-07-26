@@ -1,4 +1,4 @@
-uuid,Members,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Description:en,Description:pt_BR,Data class,Data type,Units,Normal high,Normal low,_version:1,_order:1002
+uuid,Members,Answers,Fully specified name:en,Fully specified name:pt,Short name:en,Short name:pt,Description:en,Description:pt,Data class,Data type,Units,Normal high,Normal low,_version:1,_order:1002
 b502c862-924f-11e9-bc42-526af7764f64,,,Apss_Disclosure_Diagnosis_results_child_adolescent_No,,No,Não,,,Misc,N/A,,,,,
 b502cb46-924f-11e9-bc42-526af7764f64,,,Apss_Disclosure_Diagnosis_results_child_adolescent_Partial,,Partial,Parcial,,,Misc,N/A,,,,,
 b502ccb8-924f-11e9-bc42-526af7764f64,,,Apss_Disclosure_Diagnosis_results_child_adolescent_Total,,Total,Total,,,Misc,N/A,,,,,
