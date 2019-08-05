@@ -1,6 +1,8 @@
 uuid,Members,Answers,Fully specified name:en,Fully specified name:pt,Short name:en,Short name:pt,Description:en,Description:pt,Data class,Data type,Units,Normal high,Normal low,Allow decimals,_version:1,_order:1002
-c367d9ee-3f10-11e4-adec-0800271c1b75,,,BMI,,BMI,IMC,,,Computed,Numeric,,,,Yes,,
-2c5bbbbf-f34d-4590-b624-9f17b75b7f00,c367d9ee-3f10-11e4-adec-0800271c1b75;c3843f1d-9835-47e8-842b-d51e57781585,,BMI Data,,BMI,IMC,,,Concept Details,N/A,,,,,,
-c368694c-3f10-11e4-adec-0800271c1b75,,,BMI STATUS,,BMI STATUS,Estado Nutricional,,,Computed,Text,,,,,,
-80ef57a5-0d0c-48de-acdd-19e026c890b5,c368694c-3f10-11e4-adec-0800271c1b75;afd34a0d-ca7c-4f31-bd5a-4f1fa98100e1,,BMI Status Data,,BMI STATUS,Estado Nutricional,,,Concept Details,N/A,,,,,,
+c3843f1d-9835-47e8-842b-d51e57781585,,,BMI ABNORMAL,BMI ABNORMAL,BMI ABNORMAL,BMI ABNORMAL,,,Abnormal,Boolean,,,,,,
+c367d9ee-3f10-11e4-adec-0800271c1b75,,,BMI,BMI,BMI,IMC,,,Computed,Numeric,,,,Yes,,
+2c5bbbbf-f34d-4590-b624-9f17b75b7f00,c367d9ee-3f10-11e4-adec-0800271c1b75;c3843f1d-9835-47e8-842b-d51e57781585,,BMI Data,BMI Data,BMI,IMC,,,Concept Details,N/A,,,,,,
+c368694c-3f10-11e4-adec-0800271c1b75,,,BMI STATUS,BMI STATUS,BMI STATUS,Estado Nutricional,,,Computed,Text,,,,,,
+afd34a0d-ca7c-4f31-bd5a-4f1fa98100e1,,,BMI STATUS ABNORMAL,BMI STATUS ABNORMAL,BMI STATUS ABNORMAL,BMI STATUS ABNORMAL,,,Abnormal,Boolean,,,,,,
+80ef57a5-0d0c-48de-acdd-19e026c890b5,c368694c-3f10-11e4-adec-0800271c1b75;afd34a0d-ca7c-4f31-bd5a-4f1fa98100e1,,BMI Status Data,BMI Status Data,BMI STATUS,Estado Nutricional,,,Concept Details,N/A,,,,,,
 ff0d6d6a-e276-11e4-900f-080027b662ec,,,Dispensed,Dispensed,Dispensed,Aviamento,,,Misc,Boolean,,,,,,
