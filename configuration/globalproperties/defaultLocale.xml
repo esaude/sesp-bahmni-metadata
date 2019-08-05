@@ -2,7 +2,7 @@
     <globalProperties>
         <globalProperty>
             <property>default_locale</property>
-            <value>pt</value>
+            <value>en</value>
         </globalProperty>
     </globalProperties>
 </config> 
