@@ -1,4 +1,4 @@
-uuid,Members,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Description:en,Description:pt_BR,Data class,Data type,Units,Normal high,Normal low,_version:1,_order:1002
+uuid,Members,Answers,Fully specified name:en,Fully specified name:pt,Short name:en,Short name:pt,Description:en,Description:pt,Data class,Data type,Units,Normal high,Normal low,_version:1,_order:1002
 b50371c2-924f-11e9-bc42-526af7764f64,,,Apss_Prepared_start_ARV_treatment_Yes,,Yes,Sim,,,Misc,N/A,,,,,
 b5037302-924f-11e9-bc42-526af7764f64,,,Apss_Prepared_start_ARV_treatment_No,,No,Não,,,Misc,N/A,,,,,
 b503742e-924f-11e9-bc42-526af7764f64,,Apss_Prepared_start_ARV_treatment_Yes;Apss_Prepared_start_ARV_treatment_No,Apss_Prepared_start_ARV_treatment,,Prepared to start ARV treatment,Preparado para iniciar o TARV,,,Misc,Coded,,,,,

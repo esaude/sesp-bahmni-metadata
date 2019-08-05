@@ -1,4 +1,4 @@
-uuid,Members,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Description:en,Description:pt_BR,Data class,Data type,Units,Normal high,Normal low,_version:1,_order:1002
+uuid,Members,Answers,Fully specified name:en,Fully specified name:pt,Short name:en,Short name:pt,Description:en,Description:pt,Data class,Data type,Units,Normal high,Normal low,_version:1,_order:1002
 b5034558-924f-11e9-bc42-526af7764f64,,,Apss_Support_Groups_Start,,Start,Início,,,Misc,N/A,,,,,
 b50348be-924f-11e9-bc42-526af7764f64,,,Apss_Support_Groups_In_Progress,,In Progress,Em Curso,,,Misc,N/A,,,,,
 b5034a12-924f-11e9-bc42-526af7764f64,,,Apss_Support_Groups_End,,End,Fim,,,Misc,N/A,,,,,

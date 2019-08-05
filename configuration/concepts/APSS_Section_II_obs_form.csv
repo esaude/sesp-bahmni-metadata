@@ -1,4 +1,4 @@
-uuid,Members,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Description:en,Description:pt_BR,Data class,Data type,Units,Normal high,Normal low,_version:1,_order:1002
+uuid,Members,Answers,Fully specified name:en,Fully specified name:pt,Short name:en,Short name:pt,Description:en,Description:pt,Data class,Data type,Units,Normal high,Normal low,_version:1,_order:1002
 b502f95e-924f-11e9-bc42-526af7764f64,,,Apss_Positive_prevention_Alcohol_other_Drugs_consumption_Yes,,Yes,Sim,,,Misc,N/A,,,,,
 b502fa80-924f-11e9-bc42-526af7764f64,,,Apss_Positive_prevention_Alcohol_other_Drugs_consumption_No,,No,Não,,,Misc,N/A,,,,,
 b502fba2-924f-11e9-bc42-526af7764f64,,Apss_Positive_prevention_Alcohol_other_Drugs_consumption_Yes;Apss_Positive_prevention_Alcohol_other_Drugs_consumption_No,Apss_Positive_prevention_Alcohol_other_Drugs_consumption,,Alcohol and other Drugs consumption,Consumo de álcool e outras drogas,,,Misc,Coded,,,,,
