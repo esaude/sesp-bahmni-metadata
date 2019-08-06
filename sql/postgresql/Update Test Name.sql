@@ -66,6 +66,6 @@ UPDATE test SET name = 'ALT' where description='LO_ALT';
 
 UPDATE test SET description = name;
 
-UPDATE organization SET name = 'Laboratório Externo' where name='External Labs';
+UPDATE organization SET name = 'Laboratório Externo' where name='External Lab';
 
 
