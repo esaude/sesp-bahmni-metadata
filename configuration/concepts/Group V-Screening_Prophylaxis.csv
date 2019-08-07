@@ -29,7 +29,7 @@ f23c3714-7ac0-11e9-8f9e-2a86e4085a59,"Ganglionic;Abdominal;Meningeal_Prophylaxis
 0747ea8c-81e1-11e9-bc42-526af7764f64,,,Miliary_Prophylaxis_Sensitive,Miliary_Prophylaxis_Sensitive,Miliary,Miliar,Misc,N/A,,,,,,,,,,,
 0747ebae-81e1-11e9-bc42-526af7764f64,,,Pericardial_Prophylaxis_Sensitive,Pericardial_Prophylaxis_Sensitive,Pericardial,Pericárdica,Misc,N/A,,,,,,,,,,,
 1baa2cbc-81e4-11e9-bc42-526af7764f64,"Ganglionic_Sensitive;Abdominal_Sensitive;Meningeal_Prophylaxis_Sensitive;Bone_Sensitive;Cutaneous_Prophylaxis_Sensitive;Miliary_Prophylaxis_Sensitive;Pericardial_Prophylaxis_Sensitive ",,TB Type is Extrapulmonary_Sensitive,TB Type is Extrapulmonary_Sensitive,Type of Extrapulmonary – Resistant,Tipo de TB Extra Pulmonars – Resistente,Misc,Coded,,,,,,,,,,,
-f23c3bb0-7ac0-11e9-8f9e-2a86e4085a59,,,TB Treatment,TB Treatment,TB Treatment,Tratamento de TB,Misc,Text,,,,,,,,,,,
+f23c3bb0-7ac0-11e9-8f9e-2a86e4085a59,Ácido P-aminosalicílico (PAS);Amikacina;Amoxilina-ác. Clavilânico;Bedaquilina;Capreomicina;Cicloserina/Terizidona;Clofazimina;Delamanida;Estreptomicina;Etambutol;Etionamida/Protionamida;Gatifloxacina;Imipenem-Cilastatina;Isoniazida/Pirazinamida (2DFC);Isoniazida/Rifampicina/Pirazinamida (3DFC);Isoniazida/Rifampicina/Pirazinamida/Etambutol (4DFC);Kanamicina;Levofloxacina;Linezolide;Meropenem;Moxifloxacina;Terizidiona;Tiacetazona,,TB Treatment,TB Treatment,TB Treatment,Tratamento de TB,Misc,Coded,,,,,,,,,,,
 f23c3d2c-7ac0-11e9-8f9e-2a86e4085a59,,,SP_Treatment Start Date,SP_Treatment Start Date,Treatment Start Date,Data de Início de Tratamento,Misc,Date,,,,,,,,,,,
 f23c3e58-7ac0-11e9-8f9e-2a86e4085a59,,,Start_SP,Start_SP,Start,Início,Misc,N/A,,,,,,,,,,,
 f23c4772-7ac0-11e9-8f9e-2a86e4085a59,,,Em Curso,Em Curso,In Progress,Em Curso,Misc,N/A,,,,,,,,,,,
