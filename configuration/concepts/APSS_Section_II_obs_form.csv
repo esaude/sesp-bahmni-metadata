@@ -33,7 +33,7 @@ b5032cda-924f-11e9-bc42-526af7764f64,,Apss_Adherence_follow_up_If_Child_Adolesce
 b5032e4c-924f-11e9-bc42-526af7764f64,,,Apss_Adherence_follow_up_Who_administers_Full_Name,,Full Name,Nome completo,,,Misc,Text,,,,,,
 8a2009fe-b08f-4c7d-93b3-b2baf0a02071,,,Apss_Adherence_follow_up_Administers_ARV_Alone_Yes,,Yes,Sim,,,Misc,N/A,,,,,,
 815ebbb4-21d2-46f1-b1c7-5af31aa76345,,,Apss_Adherence_follow_up_Administers_ARV_Alone_No,,No,Não,,,Misc,N/A,,,,,,
-b503316c-924f-11e9-bc42-526af7764f64,,Apss_Adherence_follow_up_Administers_ARV_Alone_Yes;Apss_Adherence_follow_up_Administers_ARV_Alone_No,Apss_Adherence_follow_up_Administers_ARV_Alone,,Does she/he administer ARVs by himself/herself?,Administra os ARVs sozinho?,,,Misc,Coded,,,,,,
+b503316c-924f-11e9-bc42-526af7764f64,,Apss_Adherence_follow_up_Administers_ARV_Alone_Yes;Apss_Adherence_follow_up_Administers_ARV_Alone_No,Apss_Adherence_follow_up_Administers_ARV_Alone,,Does he/she administer ARVs by himself/herself?,Administra os ARVs sozinho?,,,Misc,Coded,,,,,,
 b50332fc-924f-11e9-bc42-526af7764f64,,,Apss_Adherence_follow_up_Adherence_Plan_Yes,,Yes,Sim,,,Misc,N/A,,,,,,
 b50336a8-924f-11e9-bc42-526af7764f64,,,Apss_Adherence_follow_up_Adherence_Plan_No,,No,Não,,,Misc,N/A,,,,,,
 b5033810-924f-11e9-bc42-526af7764f64,,Apss_Adherence_follow_up_Adherence_Plan_Yes;Apss_Adherence_follow_up_Adherence_Plan_No,Apss_Adherence_follow_up_Adherence_Plan,,Adherence Plan,Plano de adesão,"Timetable, Dosage, Forgetting dosage, Travel","horário, Dose, esquecimento da dose, Viagem",Misc,Coded,,,,,,
