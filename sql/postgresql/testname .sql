@@ -2,7 +2,7 @@ UPDATE test SET description='LDH-TOTAL (Até 245 UI/L)' where name = 'LDH-TOTAL(
 
 UPDATE test SET description='LIP. TOTAIS (4.0-10 mmol/L)' where name = 'TOTALLIP.(4.0-10mmol/L)';
 
-UPDATE test SET description='Outra' where name = 'Other:';
+UPDATE test SET description='Outro (s)' where name = 'Outra';
 
 UPDATE test SET description='POTÁSSIO (3.3-5.6 mmol/L) ' where name = 'POTASSIUM(3.3-5.6mmol/L)';
 
@@ -50,7 +50,7 @@ UPDATE test SET description='CÁLCIO (2. 122.62 mmol/L)' where name = 'CALCIUM(2
 
 UPDATE test SET description='C.GLIC.SIMP' where name = 'C.GLIC.SIMP';
 
-UPDATE test SET description='T-BIL(3.4-21.0Hmol/L)' where name = 'T-BIL(3.4-21.0Hmol/L)';
+UPDATE test SET description='BIL TOTAL (3.4-21.0 H mol/L)' where name = 'T-BIL(3.4-21.0Hmol/L)';
 
 UPDATE test SET description='BIL CONJUG. (Até 8.2 H mol/L) ' where name = 'BILCONJUG.(Upto8.2Hmol/L)' ;
 

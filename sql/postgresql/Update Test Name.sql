@@ -2,7 +2,7 @@ UPDATE test SET name = 'LDH-TOTAL (Até 245 UI/L)' where description='LO_LDH-TOT
 
 UPDATE test SET name = 'LIP. TOTAIS (4.0-10 mmol/L)' where description='LO_TOTALLIP.(4.0-10mmol/L)';
 
-UPDATE test SET name = 'Outra' where description='LO_Other:';
+UPDATE test SET name = 'Outro (s)' where description='LO_Other:';
 
 UPDATE test SET name = 'POTÁSSIO (3.3-5.6 mmol/L)' where description='LO_POTASSIUM(3.3-5.6mmol/L)';
 
@@ -10,7 +10,7 @@ UPDATE test SET name = 'PROT. TOTAL (60-80 g/L)' where description='LO_PROT.TOTA
 
 UPDATE test SET name = 'PROV BSF  (até 6%)' where description='LO_BSF(upto6%)';
 
-UPDATE test SET name = 'SODIUM(138-151mol/L)' where description='LO_SODIUM(138-151mol/L)';
+UPDATE test SET name = 'SÓDIO (138-151 mol/L) ' where description='LO_SODIUM(138-151mol/L)';
 
 UPDATE test SET name = 'TRANS. OXAL (Até 40 U) ' where description='LO_TRANS.OXAL(Upto40U)';
 
@@ -50,7 +50,7 @@ UPDATE test SET name = 'CÁLCIO (2. 122.62 mmol/L)' where description='LO_CALCIU
 
 UPDATE test SET name = 'C.GLIC.SIMP' where description='LO_C.GLIC.SIMP';
 
-UPDATE test SET name = 'T-BIL(3.4-21.0Hmol/L)' where description='LO_T-BIL(3.4-21.0Hmol/L)';
+UPDATE test SET name = 'BIL TOTAL (3.4-21.0 H mol/L)' where description='LO_T-BIL(3.4-21.0Hmol/L)';
 
 UPDATE test SET name = 'BIL CONJUG. (Até 8.2 H mol/L)' where description='LO_BILCONJUG.(Upto8.2Hmol/L)';
 
