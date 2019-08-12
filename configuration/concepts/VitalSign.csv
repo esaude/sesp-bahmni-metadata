@@ -1,11 +1,11 @@
-Uuid,Answers,Members,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Data class,Data type,Absolute low,Critical low,Normal low,Normal high,Critical high,Absolute high,Units,Allow decimals,Display Precision,_version:1,_order:1000
+Uuid,Answers,Members,Fully specified name:en,Fully specified name:pt,Short name:en,Short name:pt,Data class,Data type,Absolute low,Critical low,Normal low,Normal high,Critical high,Absolute high,Units,Allow decimals,Display Precision,_version:1,_order:1000
 e3995466-810b-11e9-bc42-526af7764f64,,,BP_Diastolic_VSNormal,BP_Diastolic_VSNormal,Blood Pressure – Diastolic,Tensão Arterial  – Diastólica,Misc,Numeric,,,,80,,,mm Hg,,,,
 8c9b09f2-809d-11e9-bc42-526af7764f64,,,Blood_Pressure_–_Diastolic_Abnormal,Blood_Pressure_–_Diastolic_Abnormal,Diastolic Abnormal,Diastólica anormal,Abnormal,Boolean,,,,,,,,,,,
 5a485afa-8088-11e9-bc42-526af7764f64,,BP_Diastolic_VSNormal;Blood_Pressure_–_Diastolic_Abnormal,Blood_Pressure_–_Diastolic_VSNew,Blood_Pressure_–_Diastolic_VSNew,Blood Pressure - Diastolic,Tensão Arterial  – Diastólica,Concept Details,N/A,,,,,,,,,,,
 5a485e74-8088-11e9-bc42-526af7764f64,,,Blood_Pressure_–_Systolic_VS1,Blood_Pressure_–_Systolic_VS1,Blood Pressure – Systolic,Tensão Arterial – Sistólica,Misc,Numeric,,,,120,,,mm Hg,,,,
 8c9b0c54-809d-11e9-bc42-526af7764f64,,,Systolic_Abnormal_Abnormal_VS,Systolic_Abnormal_Abnormal_VS,Systolic Abnormal,Sistólica anormal,Abnormal,Boolean,,,,,,,,,,,
 5a485fd2-8088-11e9-bc42-526af7764f64,,Blood_Pressure_–_Systolic_VS1;Systolic_Abnormal_Abnormal_VS,Blood_Pressure_–_Systolic_VitalS,Blood_Pressure_–_Systolic_VitalS,Blood Pressure – Systolic,Tensão Arterial – Sistólica,Concept Details,N/A,,,,,,,,,,,
-5a486108-8088-11e9-bc42-526af7764f64,,,Heart_Rate_VS,Heart_Rate_VS,Heart Rate Normal,Frequência Cardíaca,Misc,Numeric,,,90,100,,,bpm,,,,
+5a486108-8088-11e9-bc42-526af7764f64,,,Heart_Rate_VS,Heart_Rate_VS,Heart Rate Normal,Frequência Cardíaca,Misc,Numeric,,,60,100,,,bpm,,,,
 8c9b0d94-809d-11e9-bc42-526af7764f64,,,Heart_Rate_Abnormal_VS,Heart_Rate_Abnormal_VS,Heart Rate Abnormal,Frequência Cardíaca anormal,Abnormal,Boolean,,,,,,,,,,,
 5a486234-8088-11e9-bc42-526af7764f64,,Heart_Rate_VS;Heart_Rate_Abnormal_VS,Heart_Rate_VS_VitalsNew,Heart_Rate_VS_VitalsNew,Heart Rate,Frequência Cardíaca,Concept Details,N/A,,,,,,,,,,,
 5a486356-8088-11e9-bc42-526af7764f64,,,Temperature_VS_SUB1,Temperature_VS_SUB1,Temperature Normal,Temperatura,Misc,Numeric,,,36.5,37.5,,,ºC,yes,1,,

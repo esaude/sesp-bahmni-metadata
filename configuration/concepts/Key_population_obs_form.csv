@@ -1,4 +1,4 @@
-uuid,Members,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Data class,Data type,_version:1,_order:1000
+uuid,Members,Answers,Fully specified name:en,Fully specified name:pt,Short name:en,Short name:pt,Data class,Data type,_version:1,_order:1000
 5f695c4c-7632-11e9-8f9e-2a86e4085a59,,,PP_Key_population_Yes,,Yes,Sim,Misc,N/A,,
 5f695fbc-7632-11e9-8f9e-2a86e4085a59,,,PP_Key_population_No,,No,Não,Misc,N/A,,
 5f696138-7632-11e9-8f9e-2a86e4085a59,,5f695c4c-7632-11e9-8f9e-2a86e4085a59;5f695fbc-7632-11e9-8f9e-2a86e4085a59,PP_Key_population,,Key Population,População Chave,Misc,Coded,,
@@ -20,4 +20,4 @@ uuid,Members,Answers,Fully specified name:en,Fully specified name:pt_BR,Short na
 5b79fd48-770f-11e9-8f9e-2a86e4085a59,,,PP_Vulnerable_Population_Yes_Miner,,Miner,Mineiro,Misc,N/A,,
 5b79fe7e-770f-11e9-8f9e-2a86e4085a59,,,PP_Vulnerable_Population_Yes_Truck_driver,,Truck driver,Camionista,Misc,N/A,,
 5b79ffaa-770f-11e9-8f9e-2a86e4085a59,,5b79f2c6-770f-11e9-8f9e-2a86e4085a59;5b79f3fc-770f-11e9-8f9e-2a86e4085a59;5b79f528-770f-11e9-8f9e-2a86e4085a59;5b79f960-770f-11e9-8f9e-2a86e4085a59;5b79fadc-770f-11e9-8f9e-2a86e4085a59;5b79fc12-770f-11e9-8f9e-2a86e4085a59;5b79fd48-770f-11e9-8f9e-2a86e4085a59;5b79fe7e-770f-11e9-8f9e-2a86e4085a59,PP_IF_Vulnerable_Population_Yes,,If Vulnerable Population is Yes,Grupo,Misc,Coded,,
-7352febe-77a1-11e9-8f9e-2a86e4085a59,5f696138-7632-11e9-8f9e-2a86e4085a59;5b79eab0-770f-11e9-8f9e-2a86e4085a59;5b79f19a-770f-11e9-8f9e-2a86e4085a59;5b79ffaa-770f-11e9-8f9e-2a86e4085a59,,Group_Priority_Population_obs_form,,Group II-Priority Population,População Prioritária,Misc,N/A,,
+7352febe-77a1-11e9-8f9e-2a86e4085a59,5f696138-7632-11e9-8f9e-2a86e4085a59;5b79eab0-770f-11e9-8f9e-2a86e4085a59;5b79f19a-770f-11e9-8f9e-2a86e4085a59;5b79ffaa-770f-11e9-8f9e-2a86e4085a59,,Group_Priority_Population_obs_form,Group_Priority_Population_obs_form,Group II-Priority Population,População Prioritária,Misc,N/A,,
