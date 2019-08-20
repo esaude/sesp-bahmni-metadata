@@ -9,7 +9,7 @@ update test set uom_id='127' where description IN ('ALBUMINA(35-50g/L)','GLOBULI
 
 update test set uom_id='128' where description IN ('ALT','AST');
 
-update test set uom_id='129' where description='AMILASE(600-1600UI/L)'
+update test set uom_id='129' where description='AMILASE(600-1600UI/L)';
 
 update test set uom_id='130' where description IN ('BIL TOTAL (3.4-21.0 H mol/L) ','CREATININA (4.2-132 H mol/L)');
 
