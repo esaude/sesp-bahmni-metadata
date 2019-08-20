@@ -1,7 +1,11 @@
-update sample_source set name='Emergência' where description='Emergency';
+delete from sample_source where description='OutPatient Department';
 
-update sample_source set name='Subcentro' where description='Sub Center';
+delete from sample_source where description='InPatient Department';
 
-update sample_source set name='Programa Comunitário' where description='Community Program';
+delete from sample_source where description='Emergency';
 
-update sample_source set name='balcão de recepção' where description='Registration Desk';
+delete from sample_source where description='Sub Center';
+
+delete from sample_source where description ='Community Program';
+
+delete from sample_source where description='Registration Desk';
