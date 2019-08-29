@@ -1,0 +1,4 @@
+Uuid,Void/Retire,Name,Description,Format,Foreign uuid,Searchable,_order:1000
+f3c7882f-8d27-46e9-bc0e-18da4feef4a3,,PATIENT_STATE_CHANGE,,org.openmrs.Concept,272f69c6-ffce-4124-ae81-642db395450e,,
+e0ebd48d-14a9-40e4-be89-d825f0479a46,,PATIENT_STATE,,java.lang.String,,,
+493e87e7-a5e9-479b-93df-03db4837e0ba,,PATIENT_ACTIVE_STATE,,java.lang.String,,,
