@@ -1,1 +1,11 @@
-update res_company set currency_id=(select id from res_currency where name='MZN');
+UPDATE 
+  res_company 
+SET 
+  currency_id =(
+    SELECT 
+      id 
+    FROM 
+      res_currency 
+    WHERE 
+      name = 'MZN'
+  );
