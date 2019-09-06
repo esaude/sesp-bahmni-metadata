@@ -1,4 +1,5 @@
 Uuid,Fully specified name:en,Fully specified name:pt,Members,Description,Data class,Data type,Short name:en,Short name:pt,_version:1,_order:1000
 1ef88b20-b8ee-11e9-8938-173ec47a45bf,Month,Mensal,,,Misc,N/A,,,,
 1fa07dd0-b8ee-11e9-ae9e-7fe31562c90e,Trimester,Trimestral,,,Misc,N/A,,,,
-9d86785e-3f10-11e4-adec-0800271c1b75,Dosing Instructions,Dosing Instructions,Month; Trimester,,ConvSet,N/A,,,,
+abacef88-d087-11e9-b780-bff2fd553488,Semiannual,Semestral,,,Misc,N/A,,,,
+9d86785e-3f10-11e4-adec-0800271c1b75,Dosing Instructions,Dosing Instructions,Month; Trimester;Semiannual,,ConvSet,N/A,,,,
