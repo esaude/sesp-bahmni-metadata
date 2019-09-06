@@ -18,7 +18,7 @@ UPDATE test SET name = 'TRANS. PIRUV. (Até 45 U) ' where description='LO_TRANS.
 
 UPDATE test SET name = 'TRIGLICER (0,6-2,23 mmol/L) ' where description='LO_TRIGLICER(0,6-2,23mmol/L)';
 
-UPDATE test SET name = 'ÁCIDO ÚRICO' where description='LO_UREA(3.3-6.7mmol/L)';
+UPDATE test SET name = 'UREIA (3.3-6.7 mmol/L)' where description='LO_UREA(3.3-6.7mmol/L)';
 
 UPDATE test SET name = 'HB' where description='LO_HB';
 
