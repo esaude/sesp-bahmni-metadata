@@ -1,0 +1,4 @@
+Uuid,Void/Retire,Name,Description,Format,Foreign uuid,Searchable,_order:1000
+56ea7988-b5ec-42ec-9309-d135bd84a1eb,,DATE_OF_DEATH,,org.openmrs.util.AttributableDate ,,,
+89dab784-4250-4834-ab05-d4ca9a0fc147,,CAUSE_OF_DEATH,,org.openmrs.Concept,6d94dd6d-bc52-4dc7-bc18-e3173bdf8bc8,,
+3f68f40d-3213-4ea0-8b14-339986ebc145,,DEATH_OBSERVATIONS ,,java.lang.String,,,

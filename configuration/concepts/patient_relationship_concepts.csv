@@ -1,4 +1,4 @@
-uuid,Members,Answers,Fully specified name:en,Fully specified name:pt_BR,Short name:en,Short name:pt_BR,Description:en,Description:pt_BR,Data class,Data type,Units,Normal high,Normal low,_version:1,_order:1008
+uuid,Members,Answers,Fully specified name:en,Fully specified name:pt,Short name:en,Short name:pt,Description:en,Description:pt,Data class,Data type,Units,Normal high,Normal low,_version:1,_order:1008
 ff6ef234-91c0-11e9-b683-526af7764f64,,,REL_DAD,REL_DAD,Father,Pai,,,Misc,N/A,,,,,
 ff6ef716-91c0-11e9-b683-526af7764f64,,,REL_MOM,REL_MOM,Mother,Mãe,,,Misc,N/A,,,,,
 ff6ef87e-91c0-11e9-b683-526af7764f64,,,REL_STEPDAD,REL_STEPDAD,Stepfather,Padrasto,,,Misc,N/A,,,,,

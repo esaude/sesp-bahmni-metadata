@@ -1,0 +1,5 @@
+Uuid,Void/Retire,Answers,Fully specified name:en,Fully specified name:pt,Short name:en,Short name:pt,Data class,Data type,_order:1000
+64521a16-7e8c-44a4-b9cc-cb30b49a40b1,,,Patient_Transferred_Out,Patient_Transferred_Out,,,Misc,N/A,
+b51f102b-44c4-4ff4-b890-8a94aed41b97,,,Inactive_Death,Inactive_Death,,,Misc,N/A,
+8303bc52-c0f2-4360-818f-0925d86e42b2,,,Patient_Suspension,Patient_Suspension,,,Misc,N/A,
+272f69c6-ffce-4124-ae81-642db395450e,,Patient_Transferred_Out;Inactive_Death;Patient_Suspension,Patient_State_Change,Patient_State_Change,,,Misc,Coded,
