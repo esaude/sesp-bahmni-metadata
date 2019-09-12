@@ -1,0 +1,4 @@
+Uuid,Void/Retire,Answers,Fully specified name:en,Fully specified name:pt,Short name:en,Short name:pt,Data class,Data type,_order:1000
+64521a16-7e8c-44a4-b9cc-cb30b49a4069,,,PRESUMPTIVE_DIAGNOSIS,PRESUMPTIVE_DIAGNOSIS,,,Misc,N/A,
+b51f102b-44c4-4ff4-b890-8a94aed41b69,,,FALSE_POSITIVE,FALSE_POSITIVE,,,Misc,N/A,
+8303bc52-c0f2-4360-818f-0925d86e4269,,PRESUMPTIVE_DIAGNOSIS;FALSE_POSITIVE,Patient_Suspension_Reasons,Patient_Suspension_Reasons,,,Misc,Coded,
