@@ -20,7 +20,7 @@ UPDATE test SET name = 'TRIGLICER (0,6-2,23 mmol/L) ' where description='LO_TRIG
 
 UPDATE test SET name = 'UREIA (3.3-6.7 mmol/L)' where description='LO_UREA(3.3-6.7mmol/L)';
 
-UPDATE test SET name = 'HB' where description='LO_HB';
+UPDATE test SET name = 'HGB' where description='LO_HB';
 
 UPDATE test SET name = 'GLOBULINA (25-35 G/L) ' where description='LO_GLOBULIN(25-35G/L)';
 
@@ -38,13 +38,9 @@ UPDATE test SET name = 'CREATININA (4.2-132 H mol/L)' where description='LO_CREA
 
 UPDATE test SET name = 'CPK (Até 50 UI/L)' where description='LO_CPK(Upto50UI/L)';
 
-UPDATE test SET name = 'COLESTER (3,9-6,7 mmol/L)' where description='LO_CHOLESTER(3,9-6,7mmol/L)';
+UPDATE test SET name = 'COLESTEROL (3,9-6,7 mmol/L)' where description='LO_CHOLESTER(3,9-6,7mmol/L)';
 
 UPDATE test SET name = 'CLORETOS (96-110 mmol/L) ' where description='LO_CHLORIDE(96-110mmol/L)';
-
-UPDATE test SET name = 'CD 4' where description='LO_CD4';
-
-UPDATE test SET name = 'Carga Viral' where description='LO_ViralLoad';
 
 UPDATE test SET name = 'CÁLCIO (2. 122.62 mmol/L)' where description='LO_CALCIUM(2.122.62mmol/L)';
 
