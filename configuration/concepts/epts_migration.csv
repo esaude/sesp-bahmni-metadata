@@ -1,0 +1,13 @@
+Uuid,Members,Answers,Fully specified name:en,Fully specified name:pt,Description,Data class,Data type,Short name:en,Short name:pt,_version:2,_order:1005
+b01a258e-dbec-11e9-8a34-2a2ae2dbcce4,,,hof_no_information,hof_no_information,,Misc,N/A,No Information,Sem Informacao,,
+b01a370e-dbec-11e9-8a34-2a2ae2dbcce4,,,hof_mantain,hof_mantain,,Misc,N/A,Mantain,Manter,,
+b01a2804-dbec-11e9-8a34-2a2ae2dbcce4,,,hof_alter,hof_alter,,Misc,N/A,Alter,Alterar,,
+b01a2ac0-dbec-11e9-8a34-2a2ae2dbcce4,,,hof_stop,hof_stop,,Misc,N/A,Stop All Medication,Parar Todos Medicamentos,,
+b01a2c1e-dbec-11e9-8a34-2a2ae2dbcce4,,,hof_restart,hof_restart,,Misc,N/A,Restart,Reiniciar,,
+b01a2d54-dbec-11e9-8a34-2a2ae2dbcce4,,,hof_exit,hof_exit,,Misc,N/A,Exit ARV Treatment,Saida de Tratamento ARV,,
+b01a2e80-dbec-11e9-8a34-2a2ae2dbcce4,,,hof_continue,hof_continue,,Misc,N/A,Continue With Intolerance,Continua Com Intolerancia,,
+b01a2fac-dbec-11e9-8a34-2a2ae2dbcce4,,,hof_change,hof_change,,Misc,N/A,Dosage Change,Mudanca de Dosagem,,
+b01a32ea-dbec-11e9-8a34-2a2ae2dbcce4,,,hof_substitute,hof_substitute,,Misc,N/A,Regimen Substitution,Substituicao de Regime,,
+b01a3448-dbec-11e9-8a34-2a2ae2dbcce4,,,hof_changing,hof_changing,,Misc,N/A,Regimen Change,Alteracao de Regime,,
+b01a37a8-dbec-11e9-8a34-2a2ae2dbcce4,,,hof_transfer,hof_transfer,,Misc,N/A,Transfered from,Transferido de,,
+b01a5ba8-dbec-11e9-8a34-2a2a32dbcce4,,,hof_interrupt,hof_interrupt,,Misc,N/A,Interrupt,Interromper,,

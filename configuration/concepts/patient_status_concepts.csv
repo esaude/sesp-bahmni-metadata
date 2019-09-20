@@ -1,4 +1,4 @@
 Uuid,Void/Retire,Answers,Fully specified name:en,Fully specified name:pt,Short name:en,Short name:pt,Data class,Data type,_order:1000
 7c75f4f5-abf0-4e44-83d0-f859f7eb8b74,,,Pre TARV,Pre TARV,Pré-TARV,Pré-TARV,Misc,N/A,
 817cf1a8-4557-4b7b-8fdf-27bbf48504ba,,,TARV,TARV,TARV,TARV,Misc,N/A,
-f84870a9-4c30-4564-adbe-02d99378e0e1,,7c75f4f5-abf0-4e44-83d0-f859f7eb8b74;817cf1a8-4557-4b7b-8fdf-27bbf48504ba,Patient Status,Patient Status,Patient Status,Estado do Paciente,Misc,Coded,
+f84870a9-4c30-4564-adbe-02d99378e0e1,,TARV;Pre TARV;hof_no_information;hof_mantain;hof_alter;hof_stop;hof_restart;hof_exit;hof_continue;hof_change;hof_substitute;hof_changing;hof_interrupt;hof_transfer,Patient Status,Patient Status,Patient Status,Estado do Paciente,Misc,Coded,
