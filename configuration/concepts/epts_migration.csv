@@ -11,3 +11,6 @@ b01a32ea-dbec-11e9-8a34-2a2ae2dbcce4,,,hof_substitute,hof_substitute,,Misc,N/A,R
 b01a3448-dbec-11e9-8a34-2a2ae2dbcce4,,,hof_changing,hof_changing,,Misc,N/A,Regimen Change,Alteracao de Regime,,
 b01a37a8-dbec-11e9-8a34-2a2ae2dbcce4,,,hof_transfer,hof_transfer,,Misc,N/A,Transfered from,Transferido de,,
 b01a5ba8-dbec-11e9-8a34-2a2a32dbcce4,,,hof_interrupt,hof_interrupt,,Misc,N/A,Interrupt,Interromper,,
+b01a5ba8-dbec-11e9-8a34-2a2324dbcce4,,,hof_inicio,hof_inicio,,Misc,N/A,TARV Start,Inicio TARV,,
+b01a5ba8-dbec-11e9-8a34-2a232102ice4,,,hof_pre,hof_pre,,Misc,N/A,Pre-TARV,Pre-TARV,,
+b01a5ba8-dbec-11e9-87ed-2a232102ice4,,hof_no_information;hof_mantain;hof_alter;hof_stop;hof_restart;hof_exit;hof_continue;hof_change;hof_substitute;hof_changing;hof_interrupt;hof_transfer;hof_pre;hof_inicio,hof_status,hof_status,,Misc,Coded,Patient Status,Estado do Paciente,,
