@@ -53,5 +53,43 @@ WHERE NOT EXISTS (
     SELECT name FROM syncable_units WHERE name = 'Puff (s)'
 ) LIMIT 1;
 
+INSERT INTO syncable_units (id,create_uid,create_date,write_date,write_uid,name)
+SELECT * FROM (SELECT nextval('syncable_units_id_seq'),1,NOW(),NOW(),1,'Capsula (s)') AS tmp
+WHERE NOT EXISTS (
+    SELECT name FROM syncable_units WHERE name = 'Capsula (s)'
+) LIMIT 1;
+
+INSERT INTO syncable_units (id,create_uid,create_date,write_date,write_uid,name)
+SELECT * FROM (SELECT nextval('syncable_units_id_seq'),1,NOW(),NOW(),1,'Grânulos') AS tmp
+WHERE NOT EXISTS (
+    SELECT name FROM syncable_units WHERE name = 'Grânulos'
+) LIMIT 1;
+
+INSERT INTO syncable_units (id,create_uid,create_date,write_date,write_uid,name)
+SELECT * FROM (SELECT nextval('syncable_units_id_seq'),1,NOW(),NOW(),1,'Gota (s)') AS tmp
+WHERE NOT EXISTS (
+    SELECT name FROM syncable_units WHERE name = 'Gota (s)'
+) LIMIT 1;
+
+INSERT INTO syncable_units (id,create_uid,create_date,write_date,write_uid,name)
+SELECT * FROM (SELECT nextval('syncable_units_id_seq'),1,NOW(),NOW(),1,'Colher de Sopa') AS tmp
+WHERE NOT EXISTS (
+    SELECT name FROM syncable_units WHERE name = 'Colher de Sopa'
+) LIMIT 1;
+
+INSERT INTO syncable_units (id,create_uid,create_date,write_date,write_uid,name)
+SELECT * FROM (SELECT nextval('syncable_units_id_seq'),1,NOW(),NOW(),1,'Colher de Chá') AS tmp
+WHERE NOT EXISTS (
+    SELECT name FROM syncable_units WHERE name = 'Colher de Chá'
+) LIMIT 1;
+
+INSERT INTO syncable_units (id,create_uid,create_date,write_date,write_uid,name)
+SELECT * FROM (SELECT nextval('syncable_units_id_seq'),1,NOW(),NOW(),1,'Comprimido') AS tmp
+WHERE NOT EXISTS (
+    SELECT name FROM syncable_units WHERE name = 'Comprimido'
+) LIMIT 1;
+
+
+
 
 
