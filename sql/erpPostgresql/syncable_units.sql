@@ -60,9 +60,9 @@ WHERE NOT EXISTS (
 ) LIMIT 1;
 
 INSERT INTO syncable_units (id,create_uid,create_date,write_date,write_uid,name)
-SELECT * FROM (SELECT nextval('syncable_units_id_seq'),1,NOW(),NOW(),1,'Grânulos') AS tmp
+SELECT * FROM (SELECT nextval('syncable_units_id_seq'),1,NOW(),NOW(),1,'Granulos') AS tmp
 WHERE NOT EXISTS (
-    SELECT name FROM syncable_units WHERE name = 'Grânulos'
+    SELECT name FROM syncable_units WHERE name = 'Granulos'
 ) LIMIT 1;
 
 INSERT INTO syncable_units (id,create_uid,create_date,write_date,write_uid,name)
@@ -78,9 +78,9 @@ WHERE NOT EXISTS (
 ) LIMIT 1;
 
 INSERT INTO syncable_units (id,create_uid,create_date,write_date,write_uid,name)
-SELECT * FROM (SELECT nextval('syncable_units_id_seq'),1,NOW(),NOW(),1,'Colher de Chá') AS tmp
+SELECT * FROM (SELECT nextval('syncable_units_id_seq'),1,NOW(),NOW(),1,'Colher de Cha') AS tmp
 WHERE NOT EXISTS (
-    SELECT name FROM syncable_units WHERE name = 'Colher de Chá'
+    SELECT name FROM syncable_units WHERE name = 'Colher de Cha'
 ) LIMIT 1;
 
 INSERT INTO syncable_units (id,create_uid,create_date,write_date,write_uid,name)
@@ -89,7 +89,11 @@ WHERE NOT EXISTS (
     SELECT name FROM syncable_units WHERE name = 'Comprimido'
 ) LIMIT 1;
 
-
+INSERT INTO syncable_units (id,create_uid,create_date,write_date,write_uid,name)
+SELECT * FROM (SELECT nextval('syncable_units_id_seq'),1,NOW(),NOW(),1,'UI') AS tmp
+WHERE NOT EXISTS (
+    SELECT name FROM syncable_units WHERE name = 'UI'
+) LIMIT 1;
 
 
 
