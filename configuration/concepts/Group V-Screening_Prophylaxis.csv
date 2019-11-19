@@ -1,4 +1,4 @@
-Uuid,Answers,Members,Fully specified name:en,Fully specified name:pt,Short name:en,Short name:pt,Data class,Data type,Absolute low,Critical low,Normal low,Normal high,Critical high,Absolute high,Units,Allow Decimal?,Display Precision,_version:1,_order:1003
+Uuid,Answers,Members,Fully specified name:en,Fully specified name:pt,Short name:en,Short name:pt,Data class,Data type,Absolute low,Critical low,Normal low,Normal high,Critical high,Absolute high,Units,Allow Decimal?,Display Precision,_version:1,_order:101
 f23c15cc-7ac0-11e9-8f9e-2a86e4085a59,,,Has TB Symptoms,Has TB Symptoms,Has TB Symptoms,Tem Sintomas de TB,Misc,Boolean,,,,,,,,,,,
 852e429a-8077-11e9-bc42-526af7764f64,,,Fever_PL,Fever_PL,Fever,Febre,Misc,N/A,,,,,,,,,,,
 f23c1cde-7ac0-11e9-8f9e-2a86e4085a59,,,Recent weight loss,Recent weight loss,Recent weight loss,Emagrecimento Recente,Misc,N/A,,,,,,,,,,,
@@ -53,7 +53,7 @@ c2530ab2-7b80-11e9-8f9e-2a86e4085a59,,Has STI Symptoms;STI Diagnosis_Prophylaxis
 a3c0778c-7b95-11e9-8f9e-2a86e4085a59,,,INH,INH,INH,INH,Misc,N/A,,,,,,,,,,,
 a3c079f8-7b95-11e9-8f9e-2a86e4085a59,,,CTZ,CTZ,CTZ,CTZ,Misc,N/A,,,,,,,,,,,
 a3c07b4c-7b95-11e9-8f9e-2a86e4085a59,,,Fluconazol,Fluconazol,Fluconazol,Fluconazol,Misc,N/A,,,,,,,,,,,
-a3c07e4e-7b95-11e9-8f9e-2a86e4085a59,"INH;CTZ;Fluconazol ",,Type_Prophylaxis,Type_Prophylaxis,Type,Tipo,Misc,Coded,,,,,,,,,,,
+a3c07e4e-7b95-11e9-8f9e-2a86e4085a59,"a3c0778c-7b95-11e9-8f9e-2a86e4085a59;a3c079f8-7b95-11e9-8f9e-2a86e4085a59;a3c07b4c-7b95-11e9-8f9e-2a86e4085a59",,Type_Prophylaxis,Type_Prophylaxis,Type,Tipo,Misc,Coded,,,,,,,,,,,
 a3c07f98-7b95-11e9-8f9e-2a86e4085a59,,,Start Date_Prophylaxis,Start Date_Prophylaxis,Start Date,Data de Início,Misc,Date,,,,,,,,,,,
 a3c080ba-7b95-11e9-8f9e-2a86e4085a59,,,Inicio_Prophylaxis,Inicio_Prophylaxis,Inicio,Início,Misc,N/A,,,,,,,,,,,
 a3c081e6-7b95-11e9-8f9e-2a86e4085a59,,,Em Curso_Prophylaxis,Em Curso_Prophylaxis,Em Curso,Em Curso,Misc,N/A,,,,,,,,,,,
