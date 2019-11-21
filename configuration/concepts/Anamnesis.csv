@@ -25,7 +25,7 @@ a141e6dc-0b67-11ea-8d71-362b9e155667,CIT_Citopenia;PAN _Pancreatite;NFT_Nefrotox
 2d545a30-0b89-11ea-8d71-362b9e155667,,,ESH_Esteatose_hepática_c_hipertactemia,ESH_Esteatose_hepática_c_hipertactemia,ESH - Esteatose hepática c/ hipertactemia,ESH - Esteatose hepática c/ hipertactemia,Misc,N/A,,,,,,,,,,,
 2d545b5c-0b89-11ea-8d71-362b9e155667,HEP_Hepatite;SSJ_Sindroma_de_Stevens_Jonhson;HIP_Hipersensibilidade_a_ABC_RAL;ACL_Acidose_láctica;ESH_Esteatose_hepática_c_hipertactemia ,,Com_risco_de_Vida_type,Com_risco_de_Vida_type,Com risco de Vida,Com risco de Vida,Misc,Coded,,,,,,,,,,,
 381a37fa-0b61-11ea-9a9f-362b9e155667,,,Com_risco_de_Vida,Com_risco_de_Vida,Com risco de Vida,Com risco de Vida,Misc,N/A,,,,,,,,,,,
-381a3930-0b61-11ea-9a9f-362b9e155667,Geralmente_não Severas_ana;Severas_ana;Com_risco_de_Vida,,Side_Effects_ana,Side_Effects_ana,Side Effects,Efeitos Secudnários,Misc,Coded,,,,,,,,,,,
+381a3930-0b61-11ea-9a9f-362b9e155667,Geralmente_não Severas_ana;Severas_ana;Com_risco_de_Vida,,Side_Effects_ana,Side_Effects_ana,Side Effects,Efeitos Secundários,Misc,Coded,,,,,,,,,,,
 c27f45d8-77ce-11e9-8f9e-2a86e4085a59,,,Patient Main Complaints,Patient Main Complaints,Major Complaints,Queixas Principais,Misc,Text,,,,,,,,,,,
 c27f4722-77ce-11e9-8f9e-2a86e4085a59,,,History of Current Illness,History of Current Illness,History of Current Illness,História de Doença Actual,Misc,Text,,,,,,,,,,,
 c27f486c-77ce-11e9-8f9e-2a86e4085a59,,Patient Main Complaints;History of Current Illness;Adherence_ana;Side_Effects_ana;Geralmente_não Severas_ana_type;Severas_ana_type;Com_risco_de_Vida_type ,Current Disease History,Current Disease History,Current Disease History,História da Doença Actual,Misc,N/A,,,,,,,,,,,
