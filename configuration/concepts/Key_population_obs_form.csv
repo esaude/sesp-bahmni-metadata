@@ -1,8 +1,8 @@
 uuid,Members,Answers,Fully specified name:en,Fully specified name:pt,Short name:en,Short name:pt,Data class,Data type,_version:1,_order:1000
 52877f0a-1596-11ea-8d71-362b9e155667,,,APSS_user_pop,APSS_user_pop,APSS,APSS,Misc,N/A,,
-528783a6-1596-11ea-8d71-362b9e155667,,,Clinical_user_pop,Clinical_user_pop,Clinica,Clinical,Misc,N/A,,
-52878522-1596-11ea-8d71-362b9e155667,,,APSS_an_Clinical_user_pop,APSS_an_Clinical_user_pop,APSS e Clinica,APSS and Clinical,Misc,N/A,,
-52878752-1596-11ea-8d71-362b9e155667,,APSS_user_pop;Clinical_user_pop;APSS_an_Clinical_user_pop,User_type_pop,User_type_pop,Tipo de Consulta,Consultation Type,Misc,Coded,,
+528783a6-1596-11ea-8d71-362b9e155667,,,Clinical_user_pop,Clinical_user_pop,Clinical,Clinica,Misc,N/A,,
+52878522-1596-11ea-8d71-362b9e155667,,,APSS_an_Clinical_user_pop,APSS_an_Clinical_user_pop,APSS and Clinical,APSS e Clinica,Misc,N/A,,
+52878752-1596-11ea-8d71-362b9e155667,,APSS_user_pop;Clinical_user_pop;APSS_an_Clinical_user_pop,User_type_pop,User_type_pop,Consultation Type,Tipo de Consulta,Misc,Coded,,
 5f695c4c-7632-11e9-8f9e-2a86e4085a59,,,PP_Key_population_Yes,PP_Key_population_Yes,Yes,Sim,Misc,N/A,,
 5f695fbc-7632-11e9-8f9e-2a86e4085a59,,,PP_Key_population_No,PP_Key_population_No,No,Não,Misc,N/A,,
 5f696138-7632-11e9-8f9e-2a86e4085a59,,5f695c4c-7632-11e9-8f9e-2a86e4085a59;5f695fbc-7632-11e9-8f9e-2a86e4085a59,PP_Key_population,PP_Key_population,Key Population,População Chave,Misc,Coded,,
