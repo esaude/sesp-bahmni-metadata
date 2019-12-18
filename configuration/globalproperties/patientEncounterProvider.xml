@@ -1,0 +1,17 @@
+<config>
+    <globalProperties>
+        <globalProperty>
+            <property>bahmni.sqlGet.patientEncounterProvider</property>
+            <value>SELECT en.encounter_id,ob.date_created, ob.concept_id, ob.value_coded, ob.value_numeric, ob.value_text
+, ob.value_datetime, ob.person_id, pn.given_name, pn.family_name, p.uuid
+FROM visit v
+INNER JOIN encounter en ON en.visit_id = v.visit_id
+INNER JOIN obs ob ON ob.encounter_id = en.encounter_id
+INNER JOIN users us ON us.user_id = ob.creator
+INNER JOIN person_name pn ON pn.person_id = us.person_id
+INNER JOIN person p ON p.person_id = ob.person_id
+WHERE p.uuid = ${patientUuid}
+ORDER BY date_created DESC;</value>
+        </globalProperty>
+    </globalProperties>
+</config> 
