@@ -2,7 +2,7 @@
     <globalProperties>
         <globalProperty>
             <property>bahmni.sqlGet.patientPrescriptions</property>
-            <value>SELECT DISTINCT o.order_id, d.name, dro.dose, cn3.name AS unit, cn4.name as route, cn5.name as frequency,
+            <value>SELECT DISTINCT o.order_id, d.uuid, d.name, dro.dose, cn3.name AS unit, cn4.name as route, cn5.name as frequency,
 cn.name AS line_treatment, cn2.name AS category, dro.dosing_instructions,
 erp.dispensed AS 'drug_dispensed', erp.arv_dispensed AS 'arv_dispensed',
 erp.first_arv_dispensed AS 'first_arv_dispensed', o.date_created, date(erp.dispensed_date) AS 'dispensed_date'
