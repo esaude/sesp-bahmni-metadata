@@ -2,15 +2,26 @@
     <globalProperties>
         <globalProperty>
             <property>bahmni.sqlGet.patientEncounterProvider</property>
-            <value>SELECT en.encounter_id,ob.date_created, ob.concept_id, ob.value_coded, ob.value_numeric, ob.value_text
+            <value>SELECT ob.date_created, ob.concept_id, cn.name, ob.value_coded, ob.value_numeric, ob.value_text
 , ob.value_datetime, ob.person_id, pn.given_name, pn.family_name, p.uuid
-FROM visit v
-INNER JOIN encounter en ON en.visit_id = v.visit_id
-INNER JOIN obs ob ON ob.encounter_id = en.encounter_id
+FROM 
+obs ob 
 INNER JOIN users us ON us.user_id = ob.creator
 INNER JOIN person_name pn ON pn.person_id = us.person_id
 INNER JOIN person p ON p.person_id = ob.person_id
-WHERE p.uuid = ${patientUuid}
+left join concept_name cn on cn.concept_id = ob.concept_id
+WHERE cn.locale = 'pt'
+AND ob.concept_id IN 
+(select concept_id from concept_name where name in 
+('Group_Priority_Population_obs_form'
+,'Group IV-Anamneses'
+,'Group V-Screening / Prophylaxis'
+,'Group_VIII_Family_Planning_obs_form'
+,'Reference_Form'
+,'Apss_Section_I_form'
+,'Apss_Section_II_form'
+,'Apss_Section_III_form'))
+AND p.uuid = ${patientUuid}
 ORDER BY date_created DESC;</value>
         </globalProperty>
     </globalProperties>
