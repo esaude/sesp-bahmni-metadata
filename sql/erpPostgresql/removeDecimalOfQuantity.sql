@@ -1,0 +1,1 @@
+UPDATE decimal_precision SET digits = 0 WHERE name='Product UoS'
