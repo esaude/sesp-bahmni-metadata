@@ -24,7 +24,7 @@ AND cn.locale = ${lang_treatmentLine}
 AND cn3.locale = ${lang_unit}
 AND cn4.locale = ${lang_route}
 AND p.uuid = ${patientUuid}
-GROUP BY o.date_created;</value>
+GROUP BY o.order_id;</value>
         </globalProperty>
     </globalProperties>
 </config> 
