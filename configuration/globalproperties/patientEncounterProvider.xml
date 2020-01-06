@@ -14,6 +14,8 @@ WHERE cn.locale = 'pt'
 AND ob.concept_id IN 
 (select concept_id from concept_name where name in 
 ('Group_Priority_Population_obs_form'
+,'Clinical_Observation_form'
+,'Anthropometric'
 ,'Group IV-Anamneses'
 ,'Group V-Screening / Prophylaxis'
 ,'Group_VIII_Family_Planning_obs_form'
@@ -22,6 +24,7 @@ AND ob.concept_id IN
 ,'Apss_Section_II_form'
 ,'Apss_Section_III_form'))
 AND p.uuid = ${patientUuid}
+group by ob.date_created
 ORDER BY date_created DESC;</value>
         </globalProperty>
     </globalProperties>
