@@ -1,0 +1,1 @@
+DROP TABLE temp_arv_dispensed;
