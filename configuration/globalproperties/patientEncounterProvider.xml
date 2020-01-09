@@ -2,16 +2,41 @@
     <globalProperties>
         <globalProperty>
             <property>bahmni.sqlGet.patientEncounterProvider</property>
-            <value>SELECT en.encounter_id,ob.date_created, ob.concept_id, ob.value_coded, ob.value_numeric, ob.value_text
-, ob.value_datetime, ob.person_id, pn.given_name, pn.family_name, p.uuid
-FROM visit v
-INNER JOIN encounter en ON en.visit_id = v.visit_id
-INNER JOIN obs ob ON ob.encounter_id = en.encounter_id
-INNER JOIN users us ON us.user_id = ob.creator
-INNER JOIN person_name pn ON pn.person_id = us.person_id
-INNER JOIN person p ON p.person_id = ob.person_id
-WHERE p.uuid = ${patientUuid}
-ORDER BY date_created DESC;</value>
+            <value>(SELECT distinct ob.date_created, ob.concept_id, cn.name, ob.value_coded, ob.value_numeric, ob.value_text , 
+ob.value_datetime, ob.person_id, ob.creator, pn.given_name, pn.family_name, p.uuid 
+FROM  obs ob 
+INNER JOIN users us ON us.user_id = ob.creator 
+INNER JOIN person_name pn ON pn.person_id = us.person_id 
+INNER JOIN person p ON p.person_id = ob.person_id 
+left join concept_name cn on cn.concept_id = ob.concept_id 
+WHERE cn.locale = 'pt' 
+AND ob.concept_id IN  
+(select concept_id from concept_name where name in  
+('Group_Priority_Population_obs_form' 
+,'Clinical_Observation_form' 
+,'Anthropometric' 
+,'Group IV-Anamneses' 
+,'Group V-Screening / Prophylaxis' 
+,'Group_VIII_Family_Planning_obs_form' 
+,'Reference_Form' 
+,'Apss_Section_I_form' 
+,'Apss_Section_II_form' 
+,'Apss_Section_III_form')) 
+AND p.uuid = ${patientUuid}
+group by ob.date_created
+ORDER BY ob.date_created DESC)
+union
+(select distinct od.date_created, od.concept_id, 'drug' as name, '' as value_coded, '' as value_numeric, '' as value_text , 
+'' as value_datetime, od.patient_id as person_id, od.creator, pn3.given_name as given_name, pn3.family_name as family_name, p2.uuid as uuid
+from orders od
+INNER JOIN drug_order dg on od.order_id = dg.order_id
+INNER JOIN person_name pn2 ON pn2.person_id = od.patient_id
+INNER JOIN person p2 ON p2.person_id = pn2.person_id 
+left join users u2 on u2.user_id = od.creator
+left JOIN person_name pn3 ON pn3.person_id = u2.person_id
+where od.order_id = dg.order_id
+AND p2.uuid = ${patientUuid}
+order by od.date_created desc);</value>
         </globalProperty>
     </globalProperties>
 </config> 
