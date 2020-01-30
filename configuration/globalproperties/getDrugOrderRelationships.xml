@@ -1,0 +1,8 @@
+<config>
+    <globalProperties>
+        <globalProperty>
+            <property>bahmni.sqlGet.getDrugOrderRelationships</property>
+            <value>SELECT orders.person_uuid,orders.encounter_datetime,orders.order_uuid,orders.order_id, orders.category_id, orders.treatment_line_id, orders.category_uuid, co.uuid as treatment_line_uuid FROM (SELECT ords.person_uuid,ords.encounter_datetime,ords.order_uuid,ords.order_id, ords.category_id, ords.treatment_line_id, c.uuid as category_uuid FROM (select p.uuid as person_uuid,enc.encounter_datetime,ord.uuid as order_uuid,ord.order_id as order_id, dor.category_id, dor.treatment_line_id  from encounter enc join orders ord on ord.encounter_id = enc.encounter_id join drug_order_relationship dor on dor.drug_order_id = ord.order_id join person p on p.person_id = enc.patient_id and p.uuid = ${patientUuid} and enc.encounter_type = 1 and ord.order_type_id = 2) ords join concept c on c.concept_id = ords.category_id) orders join concept co on co.concept_id = orders.treatment_line_id;</value>
+        </globalProperty>
+    </globalProperties>
+</config> 
