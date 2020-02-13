@@ -2,12 +2,13 @@
     <globalProperties>
         <globalProperty>
             <property>bahmni.sqlGet.patientPrescriptions</property>
-            <value>SELECT DISTINCT o.order_id, d.uuid, d.name, dro.dose, cn3.name AS unit, cn4.name as route, cn5.name as frequency,
+            <value>SELECT DISTINCT o.order_id, d.uuid, d.name, v.uuid as 'visit_uuid', dro.dose, cn3.name AS unit, cn4.name as route, cn5.name as frequency,
 cn.name AS line_treatment, cn2.name AS category, dro.dosing_instructions, dro.duration as 'duration',
 erp.dispensed AS 'drug_dispensed', erp.arv_dispensed AS 'arv_dispensed',
 erp.first_arv_dispensed AS 'first_arv_dispensed', o.date_created, date(erp.dispensed_date) AS 'dispensed_date', erp.uuid as 'erp_uuid'
 FROM person p
-INNER JOIN encounter enc ON p.person_id = enc.patient_id
+INNER JOIN visit v ON p.person_id = v.patient_id
+INNER JOIN encounter enc ON enc.visit_id = v.visit_id
 INNER JOIN orders o ON enc.encounter_id = o.encounter_id
 INNER JOIN drug d ON o.concept_id = d.concept_id
 INNER JOIN drug_order_relationship dor ON o.order_id = dor.drug_order_id
